@@ -1,0 +1,62 @@
+% ------------------------------------------------------------------------------
+% Este fichero es parte de la plantilla LaTeX para la realización de Proyectos
+% Final de Grado, protegido bajo los términos de la licencia GFDL.
+% Para más información, la licencia completa viene incluida en el
+% fichero fdl-1.3.tex
+
+% Copyright (C) 2012 SPI-FM. Universidad de Cádiz
+% ------------------------------------------------------------------------------
+
+\section{Introducción}
+En esta sección describiremos los pasos necesarios para poner al sistema en correcto funcionamiento. La aplicación puede funcionar teniendo el propio servidor web instalado en un ordenador o subir la web a un servidor para que sea accesible desde cualquier ubicación externa.
+
+\section{Requisitos previos}
+Los requisitos previos para poder instalar el software son los siguientes:
+\begin{itemize}
+\item La versión de PHP debe ser 5.3.3 o superior.
+\item Es necesario un servidor web como Apache.
+\item Es necesario habilitar JSON.
+\item Es necesario tener habilitado el ctype.
+\item El PHP.ini tiene que tener bien configurado el valor del date.timezone.
+\item Es necesaria, al menos, una base de datos MySQL.
+\end{itemize}
+
+\section{Procedimientos de instalación}
+Para poner en funcionamiento la aplicación en un servidor local instalaremos cualquier paquete de Apache + MySQL + PHP de acuerdo al sistema operativo del ordenador(LAMP,XAMP,MAMP) y copiaremos toda la carpeta del proyecto a la carpeta de Apache /www. 
+En este momento, como ya tenemos Symfony2 instalado, podremos comprobar que los requisitos previamente citados se cumplen. Para ello, podremos ejecutar el siguiente comando desde la linea de órdenes:
+\begin{itemize}
+\item php app/check.php
+\end{itemize}
+o bien desde el navegador entrando en la siguiente URL:
+\begin{itemize}
+\item proyecto/web/config.php
+\end{itemize}
+
+Tendremos que modificar en el archivo parameters.ini las configuraciones del servidor MySQL y del servidor de email. A partir de ese momento, como tenemos instalado MySQL sólo nos queda ejecutar estas órdenes desde la linea de comandos en la carpeta del proyecto:
+\begin{itemize}
+\item app/console doctrine:database:create 
+\item app/console doctrine:schema:create
+\item app/console doctrine:fixtures:load
+\end{itemize}
+Se creará un usuario administrador de prueba con los siguientes datos.
+\begin{itemize}
+\item \textbf{Nombre usuario}: empleado0
+\item \textbf{Contraseña}: empleado0
+\end{itemize}
+
+Para poner en funcionamiento la aplicación web en un servidor se pueden seguir varios caminos, por un lado si tenemos acceso al servidor por SSH y como tenemos el código de la aplicación en GitHub podemos descargar el código directamente en nuestro servidor con el siguiente comando:
+\begin{itemize}
+\item git clone https://github.com/parada85/optinet-final.git
+\end{itemize}
+Otra opción seria transferir por ftp toda la carpeta del proyecto al servidor, preferiblemente comprimida y luego se descomprimirá en el servidor.
+Llegado a este punto se ejecutarían los mismos comandos que en la primera opción pero en el servidor web.
+
+\section{Procedimientos de operación y nivel de servicio}
+
+En el servidor sería recomendable que configurásemos una tarea programada para que cada cierto tiempo se hiciera un backup de la base de datos para asegurarnos que de ninguna manera perdamos los datos de la base de datos. Esto se hace haciendo uso del comando crontab, por ejemplo:
+
+\begin{itemize}
+\item 30 6 1 * * mysqldump -h servidor\_mysql -u user -ppass --all-databases > copia.sql
+\end{itemize}
+
+Esto realizaría una copia al principio de cada mes.

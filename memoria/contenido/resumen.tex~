@@ -1,0 +1,43 @@
+% ------------------------------------------------------------------------------
+% Este fichero es parte de la plantilla LaTeX para la realización de Proyectos
+% Final de Grado, protegido bajo los términos de la licencia GFDL.
+% Para más información, la licencia completa viene incluida en el
+% fichero fdl-1.3.tex
+
+% Copyright (C) 2012 SPI-FM. Universidad de Cádiz
+% ------------------------------------------------------------------------------
+
+\thispagestyle{empty}
+
+\noindent \textbf{\begin{Large}Resumen\end{Large}} 
+\newline
+\newline
+\noindent 
+Surge la necesidad de la empresa Optinet de realizar un proyecto de gestión para su empresa ya que
+el que usan estaba muy antiguo y presentaba algunos errores y se planteo mejorar el que ya tenian pero
+en esa toma de contacto nos dimos cuenta que realizandolo en una plataforma web seria mejor por las
+ventajas que ello conlleva.
+El objetivo de este proyecto es realizar un programa de gestión en un entorno web en el cual la empresa
+Optinet pueda llevar la gestión de una forma eficaz, sin errores y en un entorno amigable.
+
+\newline
+
+\noindent {\bf Palabras clave:}\\
+\begin{itemize}
+  \item \textbf{BD:} Base de datos.
+  \item \textbf{CP:} Clave primaria.
+  \item \textbf{CF:} Clave foránea.
+  \item \textbf{PHP:} Lenguaje de programación interpretado y de lado del servidor.
+  \item \textbf{HTML:} HyperText Markup Language.Lenguaje de marcado de hipertexto.
+  \item \textbf{CSS:} Style sheet language. Hojas de estilo.
+  \item \textbf{JavaScript:} Lenguaje de programación interpretado y de lado del cliente.
+  \item \textbf{jQuery:} Biblioteca de JavaScript.
+  \item \textbf{AJAX:} Asynchronous JavaScript And XML. JavaScript asíncrono y XML.
+  \item \textbf{MySQL:} Sistema de gestión de bases de datos relacional, multihilo y multiusuario.
+  \item \textbf{1FN:} Primera forma normal.
+  \item \textbf{2FN:} Segunda forma normal.
+  \item \textbf{3FN:} Tercera forma normal.
+  \item \textbf{FNBC:} Forma normal de Boyce-Codd.
+  \item \textbf{4FN:} Cuarta foram normal.
+  \item \textbf{5FN:} Quinta forma normal.
+\end{itemize}

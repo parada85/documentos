@@ -1,0 +1,200 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagrama de Gantt}}{6}{figure.2.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n de clientes}}{11}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n de productos}}{15}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n de proveedores}}{22}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n de usuarios}}{26}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n ventas}}{31}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n devoluciones}}{34}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n reservas}}{37}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n apartados}}{41}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n citas e informes}}{45}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n festivos}}{50}{figure.3.10}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n de entradas y salidas}}{53}{figure.3.11}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Diagrama caso de uso. Estadisticas}}{55}{figure.3.12}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n de pedidos}}{56}{figure.3.13}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n de arqueos}}{59}{figure.3.14}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Diagrama caso de uso. Gesti\IeC {\'o}n de permisos}}{61}{figure.3.15}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Modelo conceptual de datos.}}{65}{figure.3.16}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Diagrama de secuencia - Caso de uso: Entrada al sistema }}{66}{figure.3.17}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Diagrama de secuencia - Caso de uso: Salida del sistema }}{66}{figure.3.18}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Diagrama de secuencia - Caso de uso: Olvido contrase\IeC {\~n}a }}{66}{figure.3.19}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Diagrama de secuencia - Caso de uso: Generar contrase\IeC {\~n}a }}{66}{figure.3.20}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Diagrama de secuencia - Caso de uso: Registrar cliente }}{67}{figure.3.21}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Diagrama de secuencia - Caso de uso: Modificar cliente }}{67}{figure.3.22}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Diagrama de secuencia - Caso de uso: Borrar cliente }}{67}{figure.3.23}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar clientes }}{67}{figure.3.24}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Diagrama de secuencia - Caso de uso: Ver cliente }}{67}{figure.3.25}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Diagrama de secuencia - Caso de uso: Nueva venta }}{68}{figure.3.26}
+\contentsline {figure}{\numberline {3.27}{\ignorespaces Diagrama de secuencia - Caso de uso: Generar documento venta }}{68}{figure.3.27}
+\contentsline {figure}{\numberline {3.28}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar ventas }}{68}{figure.3.28}
+\contentsline {figure}{\numberline {3.29}{\ignorespaces Diagrama de secuencia - Caso de uso: Ver productos venta }}{68}{figure.3.29}
+\contentsline {figure}{\numberline {3.30}{\ignorespaces Diagrama de secuencia - Caso de uso: Nueva devoluci\IeC {\'o}n }}{69}{figure.3.30}
+\contentsline {figure}{\numberline {3.31}{\ignorespaces Diagrama de secuencia - Caso de uso: Generar documento devoluci\IeC {\'o}n}}{69}{figure.3.31}
+\contentsline {figure}{\numberline {3.32}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar devoluciones }}{69}{figure.3.32}
+\contentsline {figure}{\numberline {3.33}{\ignorespaces Diagrama de secuencia - Caso de uso: Ver productos devoluci\IeC {\'o}n }}{69}{figure.3.33}
+\contentsline {figure}{\numberline {3.34}{\ignorespaces Diagrama de secuencia - Caso de uso: Nueva reserva }}{70}{figure.3.34}
+\contentsline {figure}{\numberline {3.35}{\ignorespaces Diagrama de secuencia - Caso de uso: Generar documento reserva }}{70}{figure.3.35}
+\contentsline {figure}{\numberline {3.36}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar reservas }}{70}{figure.3.36}
+\contentsline {figure}{\numberline {3.37}{\ignorespaces Diagrama de secuencia - Caso de uso: Ver productos reserva }}{70}{figure.3.37}
+\contentsline {figure}{\numberline {3.38}{\ignorespaces Diagrama de secuencia - Caso de uso: Avisar reserva }}{70}{figure.3.38}
+\contentsline {figure}{\numberline {3.39}{\ignorespaces Diagrama de secuencia - Caso de uso: Convertir a venta }}{71}{figure.3.39}
+\contentsline {figure}{\numberline {3.40}{\ignorespaces Diagrama de secuencia - Caso de uso: Nueva cita }}{71}{figure.3.40}
+\contentsline {figure}{\numberline {3.41}{\ignorespaces Diagrama de secuencia - Caso de uso: Borrar cita }}{71}{figure.3.41}
+\contentsline {figure}{\numberline {3.42}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar citas }}{71}{figure.3.42}
+\contentsline {figure}{\numberline {3.43}{\ignorespaces Diagrama de secuencia - Caso de uso: Calendario citas }}{71}{figure.3.43}
+\contentsline {figure}{\numberline {3.44}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar informes }}{72}{figure.3.44}
+\contentsline {figure}{\numberline {3.45}{\ignorespaces Diagrama de secuencia - Caso de uso: Ver cita }}{72}{figure.3.45}
+\contentsline {figure}{\numberline {3.46}{\ignorespaces Diagrama de secuencia - Caso de uso: Ver informe }}{72}{figure.3.46}
+\contentsline {figure}{\numberline {3.47}{\ignorespaces Diagrama de secuencia - Caso de uso: Generar documento informe }}{72}{figure.3.47}
+\contentsline {figure}{\numberline {3.48}{\ignorespaces Diagrama de secuencia - Caso de uso: Nuevo informe con cita }}{72}{figure.3.48}
+\contentsline {figure}{\numberline {3.49}{\ignorespaces Diagrama de secuencia - Caso de uso: Nuevo informe sin cita }}{72}{figure.3.49}
+\contentsline {figure}{\numberline {3.50}{\ignorespaces Diagrama de secuencia - Caso de uso: Nuevo pedido }}{73}{figure.3.50}
+\contentsline {figure}{\numberline {3.51}{\ignorespaces Diagrama de secuencia - Caso de uso: Generar documento pedido }}{73}{figure.3.51}
+\contentsline {figure}{\numberline {3.52}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar pedidos }}{73}{figure.3.52}
+\contentsline {figure}{\numberline {3.53}{\ignorespaces Diagrama de secuencia - Caso de uso: Ver productos pedido }}{73}{figure.3.53}
+\contentsline {figure}{\numberline {3.54}{\ignorespaces Diagrama de secuencia - Caso de uso: Recepcionar pedido }}{73}{figure.3.54}
+\contentsline {figure}{\numberline {3.55}{\ignorespaces Diagrama de secuencia - Caso de uso: Registrar empleado }}{74}{figure.3.55}
+\contentsline {figure}{\numberline {3.56}{\ignorespaces Diagrama de secuencia - Caso de uso: Registrar m\IeC {\'e}dico }}{74}{figure.3.56}
+\contentsline {figure}{\numberline {3.57}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar conexiones }}{74}{figure.3.57}
+\contentsline {figure}{\numberline {3.58}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar cambios }}{74}{figure.3.58}
+\contentsline {figure}{\numberline {3.59}{\ignorespaces Diagrama de secuencia - Caso de uso: Nuevo permiso }}{75}{figure.3.59}
+\contentsline {figure}{\numberline {3.60}{\ignorespaces Diagrama de secuencia - Caso de uso: Borrar permiso }}{75}{figure.3.60}
+\contentsline {figure}{\numberline {3.61}{\ignorespaces Diagrama de secuencia - Caso de uso: Borrar permisos }}{75}{figure.3.61}
+\contentsline {figure}{\numberline {3.62}{\ignorespaces Diagrama de secuencia - Caso de uso: Modificar permiso }}{75}{figure.3.62}
+\contentsline {figure}{\numberline {3.63}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar permisos }}{75}{figure.3.63}
+\contentsline {figure}{\numberline {3.64}{\ignorespaces Diagrama de secuencia - Caso de uso: Calendario permisos }}{76}{figure.3.64}
+\contentsline {figure}{\numberline {3.65}{\ignorespaces Diagrama de secuencia - Caso de uso: Registrar festivo }}{76}{figure.3.65}
+\contentsline {figure}{\numberline {3.66}{\ignorespaces Diagrama de secuencia - Caso de uso: Borrar festivo }}{76}{figure.3.66}
+\contentsline {figure}{\numberline {3.67}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar festivos }}{76}{figure.3.67}
+\contentsline {figure}{\numberline {3.68}{\ignorespaces Diagrama de secuencia - Caso de uso: Calendario festivos }}{76}{figure.3.68}
+\contentsline {figure}{\numberline {3.69}{\ignorespaces Diagrama de secuencia - Caso de uso: Nuevo arqueo }}{77}{figure.3.69}
+\contentsline {figure}{\numberline {3.70}{\ignorespaces Diagrama de secuencia - Caso de uso: Listar arqueos }}{77}{figure.3.70}
+\contentsline {figure}{\numberline {3.71}{\ignorespaces Diagrama de secuencia - Caso de uso: Calendario arqueos }}{77}{figure.3.71}
+\contentsline {figure}{\numberline {3.72}{\ignorespaces Diagrama de secuencia - Caso de uso: Estad\IeC {\'\i }sticas }}{77}{figure.3.72}
+\contentsline {figure}{\numberline {3.73}{\ignorespaces Diagrama de secuencia - Caso de uso: Estad\IeC {\'\i }sticas empleado }}{77}{figure.3.73}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Modelo-Vista-Controlador}}{112}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Prototipo pantalla listar clientes}}{112}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Prototipo pantalla de login}}{113}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Diagrama de clases de dise\IeC {\~n}o 1}}{124}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Diagrama de clases de dise\IeC {\~n}o 2}}{125}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar cliente}}{126}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar cliente - Alternativo 1}}{127}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar cliente - Alternativo 2}}{127}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Modificar cliente}}{128}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Modificar cliente - Alternativo 1}}{129}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Modificar cliente - Alternativo 2}}{129}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Borrar cliente}}{130}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Borrar cliente - Alternativo 1}}{130}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Borrar cliente - Alternativo 2}}{131}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Ver cliente}}{131}{figure.4.15}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Listar clientes}}{131}{figure.4.16}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar venta}}{132}{figure.4.17}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar venta - Alternativo 1}}{133}{figure.4.18}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar venta - Alternativo 2}}{133}{figure.4.19}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar venta - Alternativo 3}}{134}{figure.4.20}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Listar ventas}}{135}{figure.4.21}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Generar documento venta}}{135}{figure.4.22}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar devoluci\IeC {\'o}n}}{136}{figure.4.23}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar devoluci\IeC {\'o}n - Alternativo 1}}{137}{figure.4.24}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar devoluci\IeC {\'o}n - Alternativo 2}}{138}{figure.4.25}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar devoluci\IeC {\'o}n - Alternativo 3}}{138}{figure.4.26}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Listar devoluciones}}{139}{figure.4.27}
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Generar documento devoluci\IeC {\'o}n}}{139}{figure.4.28}
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Ver productos devueltos}}{139}{figure.4.29}
+\contentsline {figure}{\numberline {4.30}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar reserva}}{140}{figure.4.30}
+\contentsline {figure}{\numberline {4.31}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar reserva - Alternativo 1}}{141}{figure.4.31}
+\contentsline {figure}{\numberline {4.32}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar reserva - Alternativo 2}}{142}{figure.4.32}
+\contentsline {figure}{\numberline {4.33}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar reserva -Alternativo 3}}{142}{figure.4.33}
+\contentsline {figure}{\numberline {4.34}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Listar reservas}}{143}{figure.4.34}
+\contentsline {figure}{\numberline {4.35}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Generar documento reserva}}{143}{figure.4.35}
+\contentsline {figure}{\numberline {4.36}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Ver productos reserva}}{143}{figure.4.36}
+\contentsline {figure}{\numberline {4.37}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar cita}}{144}{figure.4.37}
+\contentsline {figure}{\numberline {4.38}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar cita - Alternativo 1}}{145}{figure.4.38}
+\contentsline {figure}{\numberline {4.39}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar cita - Alternativo 2}}{146}{figure.4.39}
+\contentsline {figure}{\numberline {4.40}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Ver cita}}{147}{figure.4.40}
+\contentsline {figure}{\numberline {4.41}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Listar citas}}{147}{figure.4.41}
+\contentsline {figure}{\numberline {4.42}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Listar informes}}{147}{figure.4.42}
+\contentsline {figure}{\numberline {4.43}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Generar informe con cita}}{148}{figure.4.43}
+\contentsline {figure}{\numberline {4.44}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Generar informe sin cita}}{149}{figure.4.44}
+\contentsline {figure}{\numberline {4.45}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar pedido}}{150}{figure.4.45}
+\contentsline {figure}{\numberline {4.46}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar Pedido - Alternativo 1}}{151}{figure.4.46}
+\contentsline {figure}{\numberline {4.47}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Registrar Pedido - Alternativo 2}}{151}{figure.4.47}
+\contentsline {figure}{\numberline {4.48}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Listar pedidos}}{152}{figure.4.48}
+\contentsline {figure}{\numberline {4.49}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Entrada al sistema}}{152}{figure.4.49}
+\contentsline {figure}{\numberline {4.50}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Entrada al sistema - Alternativo 1}}{153}{figure.4.50}
+\contentsline {figure}{\numberline {4.51}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Entrada al sistema - Alternativo 2}}{153}{figure.4.51}
+\contentsline {figure}{\numberline {4.52}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Salida del sistema}}{154}{figure.4.52}
+\contentsline {figure}{\numberline {4.53}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Olvido contrase\IeC {\~n}a}}{154}{figure.4.53}
+\contentsline {figure}{\numberline {4.54}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Olvido contrase\IeC {\~n}a - Alternativo 1}}{155}{figure.4.54}
+\contentsline {figure}{\numberline {4.55}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Generar contrase\IeC {\~n}a}}{155}{figure.4.55}
+\contentsline {figure}{\numberline {4.56}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Generar contrase\IeC {\~n}a - Alternativo 1}}{156}{figure.4.56}
+\contentsline {figure}{\numberline {4.57}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Estad\IeC {\'\i }sticas}}{156}{figure.4.57}
+\contentsline {figure}{\numberline {4.58}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Estad\IeC {\'\i }sticas empleado}}{157}{figure.4.58}
+\contentsline {figure}{\numberline {4.59}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Nuevo permiso}}{157}{figure.4.59}
+\contentsline {figure}{\numberline {4.60}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Nuevo permiso - Alternativo 1}}{158}{figure.4.60}
+\contentsline {figure}{\numberline {4.61}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Borrar permiso - Alternativo 1}}{158}{figure.4.61}
+\contentsline {figure}{\numberline {4.62}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Borrar permiso - Alternativo 1}}{159}{figure.4.62}
+\contentsline {figure}{\numberline {4.63}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Nuevo arqueo}}{159}{figure.4.63}
+\contentsline {figure}{\numberline {4.64}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Nuevo arqueo - Alternativo 1}}{160}{figure.4.64}
+\contentsline {figure}{\numberline {4.65}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Nuevo arqueo - Alternativo 2}}{160}{figure.4.65}
+\contentsline {figure}{\numberline {4.66}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Nuevo festivo}}{160}{figure.4.66}
+\contentsline {figure}{\numberline {4.67}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Nuevo festivo - Alternativo 1}}{161}{figure.4.67}
+\contentsline {figure}{\numberline {4.68}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Ver festivo}}{161}{figure.4.68}
+\contentsline {figure}{\numberline {4.69}{\ignorespaces Diagrama de interacci\IeC {\'o}n. Caso de uso: Borrar festivo}}{161}{figure.4.69}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Compatibilidad en distintos navegadores}}{169}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Rendimiento - GTmetrix }}{170}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Historial rendimiento 1 - GTmetrix }}{170}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Historial rendimiento 2 - GTmetrix }}{170}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Historial rendimiento 3 - GTmetrix }}{170}{figure.6.5}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Rendimiento - Pingdom}}{171}{figure.6.6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Pantalla logueo}}{173}{figure.7.1}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Pantalla contrase\IeC {\~n}a olvidada}}{174}{figure.7.2}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Pantalla principal}}{175}{figure.7.3}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Pantalla registro cliente}}{175}{figure.7.4}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Pantalla listar clientes}}{176}{figure.7.5}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Pantalla modificar cliente}}{177}{figure.7.6}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Pantalla mover productos}}{178}{figure.7.7}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Pantalla registrar productos}}{178}{figure.7.8}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Pantalla modificar producto}}{179}{figure.7.9}
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Pantalla listar productos}}{180}{figure.7.10}
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Pantalla listar familias}}{181}{figure.7.11}
+\contentsline {figure}{\numberline {7.12}{\ignorespaces Pantalla nueva venta}}{182}{figure.7.12}
+\contentsline {figure}{\numberline {7.13}{\ignorespaces Pantalla nueva venta1}}{182}{figure.7.13}
+\contentsline {figure}{\numberline {7.14}{\ignorespaces Pantalla nueva venta2}}{182}{figure.7.14}
+\contentsline {figure}{\numberline {7.15}{\ignorespaces Pantalla listar ventas}}{183}{figure.7.15}
+\contentsline {figure}{\numberline {7.16}{\ignorespaces Pantalla nueva devoluci\IeC {\'o}n}}{184}{figure.7.16}
+\contentsline {figure}{\numberline {7.17}{\ignorespaces Pantalla nueva devoluci\IeC {\'o}n1}}{184}{figure.7.17}
+\contentsline {figure}{\numberline {7.18}{\ignorespaces Pantalla listar reservas}}{185}{figure.7.18}
+\contentsline {figure}{\numberline {7.19}{\ignorespaces Pantalla listar operaciones}}{186}{figure.7.19}
+\contentsline {figure}{\numberline {7.20}{\ignorespaces Pantalla nuevo pedido}}{187}{figure.7.20}
+\contentsline {figure}{\numberline {7.21}{\ignorespaces Pantalla nuevo pedido 1}}{188}{figure.7.21}
+\contentsline {figure}{\numberline {7.22}{\ignorespaces Pantalla listar pedidos}}{189}{figure.7.22}
+\contentsline {figure}{\numberline {7.23}{\ignorespaces Pantalla citas}}{189}{figure.7.23}
+\contentsline {figure}{\numberline {7.24}{\ignorespaces Pantalla dialogo nueva cita}}{190}{figure.7.24}
+\contentsline {figure}{\numberline {7.25}{\ignorespaces Pantalla nuevo informe}}{191}{figure.7.25}
+\contentsline {figure}{\numberline {7.26}{\ignorespaces Pantalla registrar arqueo}}{192}{figure.7.26}
+\contentsline {figure}{\numberline {7.27}{\ignorespaces Pantalla estad\IeC {\'\i }sticas usuario}}{193}{figure.7.27}
+\contentsline {figure}{\numberline {7.28}{\ignorespaces Pantalla modificar usuario}}{194}{figure.7.28}
+\contentsline {figure}{\numberline {7.29}{\ignorespaces Pantalla registrar empleado/m\IeC {\'e}dico}}{195}{figure.7.29}
+\contentsline {figure}{\numberline {7.30}{\ignorespaces Pantalla listar empleados}}{196}{figure.7.30}
+\contentsline {figure}{\numberline {7.31}{\ignorespaces Pantalla listar conexiones}}{196}{figure.7.31}
+\contentsline {figure}{\numberline {7.32}{\ignorespaces Pantalla listar cambios}}{197}{figure.7.32}
+\contentsline {figure}{\numberline {7.33}{\ignorespaces Pantalla calendario arqueos}}{198}{figure.7.33}
+\contentsline {figure}{\numberline {7.34}{\ignorespaces Pantalla gestionar festivos}}{199}{figure.7.34}
+\contentsline {figure}{\numberline {7.35}{\ignorespaces Pantalla gestionar permisos}}{200}{figure.7.35}
+\contentsline {figure}{\numberline {7.36}{\ignorespaces Pantalla estad\IeC {\'\i }sticas}}{201}{figure.7.36}
+\contentsline {figure}{\numberline {7.37}{\ignorespaces Pantalla estad\IeC {\'\i }sticas 1}}{201}{figure.7.37}
+\contentsline {figure}{\numberline {7.38}{\ignorespaces Pantalla estad\IeC {\'\i }sticas 2}}{202}{figure.7.38}
+\contentsline {figure}{\numberline {7.39}{\ignorespaces Pantalla estad\IeC {\'\i }sticas 3}}{202}{figure.7.39}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsfinish 

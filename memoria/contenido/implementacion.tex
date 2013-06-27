@@ -1,0 +1,93 @@
+% ------------------------------------------------------------------------------
+% Este fichero es parte de la plantilla LaTeX para la realización de Proyectos
+% Final de Grado, protegido bajo los términos de la licencia GFDL.
+% Para más información, la licencia completa viene incluida en el
+% fichero fdl-1.3.tex
+
+% Copyright (C) 2012 SPI-FM. Universidad de Cádiz
+% ------------------------------------------------------------------------------
+
+Este capítulo trataremos sobre todos los aspectos relacionados con la implementación del sistema en código, haciendo uso de un determinado entorno tecnológico.
+
+\section{Entorno tecnológico}
+
+Para la realización de la aplicación se eligió \ac{PHP} ya que es un lenguaje de programación que es libre, está orientado a aplicaciones web con acceso a base de datos, gran comunidad entre otras características. El aprendizaje de este lenguaje se hizo muy llevadero ya que presenta muchas similitudes con el lenguaje C/C++ estudiado en la carrera.\\
+El código en \ac{PHP} es invisible al navegador web y al cliente, ya que es el servidor el que se encarga de ejecutar el código y enviar su resultado \ac{HTML} al navegador. Esto hace que la programación en \ac{PHP} sea segura y confiable.\\
+
+Para poder escribir el código se probaron distintos IDEs como Codebloks, Netbeans, Eclipse pero se terminó eligiendo SublimeText2 como editor ya que presenta una interfaz sencilla, es ligero, se pueden instalar numerosos plugins y  soporta de forma nativa infinidad de lenguajes.
+
+Para poder escribir código PHP se eligió un framework capaz de ayudarnos en esa tarea. Después de barajar diferentes alternativas, se usó Symfony2 como framework de desarrollo PHP facilitándonos la tarea en este lenguaje. Elegimos Symfony2 por muchas razones descritas en los apartados anteriores, en la que destaca que es ampliamente utilizado en las empresas lo cual es recomendable para tener experiencia en lo que demandan las empresas. \\
+
+Se utilizó el lenguaje HTML, ya que es el lenguaje de marcado predominante para el desarrollo de páginas web. Para poder dar diseño al lenguaje HTML hacemos uso de \ac{CSS} en su versión 3 pudiendo incluir opciones como border, degradados y demás nuevas características.
+
+Para que la web fuese atractiva y para dotar a la página web de más interactividad se hizo uso de \ac{JQuery}. JQuery es un framework de \ac{JavaScript} esencial ya que por ejemplo, para acceder a cualquier elemento de la página no hace falta ensuciar el código HTML, jQuery proporciona un mecanismo de selectores de objetos en el DOM el cual es muy fácil de aprender. Con \ac{JQuery} básicamente lo que se consigue es hacer las cosas más sencillas como por ejemplo una llamada a \ac{AJAX} para poder obtener información del servidor de base de datos sin tener que recargar la página. \\
+
+Para ir llevando un control de la aplicación se tuvo que aprender como funcionaban los controles de versiones. Se estudiaron diferentes alternativas tales como Subversion o GIT. Aunque nos valdría cualquiera de los dos, finalmente nos decantamos por GIT ya que Symfony2 y cualquier plugin de éste, está alojado en GIT.
+
+Para la realización de la memoria se ha utilizado un sistema de composición de textos como latex y un editor para latex como Textworks, además de programas como Dia y Gimp para poder realizar y retocar las imágenes.
+
+Para subir la aplicación al servidor y así probarla, se tuvo que elegir un servidor con PHP 5.3+ ya que es un requerimiento de Symfony2 y además se tuvo especial interés en que el servidor tuviese acceso por \ac{SSH} ya que en Symfony2 se usa mucho la consola y de esta forma podríamos usarla. Aprovechándonos de la conexión SSH y teniendo el código en GIT, ejecutando GIT clone repositorio tendremos en el servidor nuestra aplicación.
+
+\section{Código fuente}
+
+El código fuente de una aplicación en Symfony2 es bastante flexible pero es recomendable usar la estructura de directorios de la distribución estándar ya que de esa manera siempre tendremos el código bien estructurado. Symfony2 tiene la siguiente estructura:
+
+\begin{itemize}
+\item \textbf{app/} Configuración de la aplicación. 
+\item \textbf{src/} Código PHP del proyecto.
+\item \textbf{vendor/} Las dependencias de la aplicación(plugins).
+\item \textbf{web/} El directorio web raíz.
+\end{itemize}
+
+Ahora describiremos el contenido de cada directorio:
+
+\begin{itemize}
+\item \textbf{El directorio web}: \\
+El directorio web es donde están alojados todos los archivos públicos y estáticos como imágenes, hojas de estilo y archivos js de la aplicación. También se encuentran los controladores frontales de la aplicación y su trabajo consiste en utilizar una clase del núcleo, AppKernel, para arrancar la aplicación. \\
+Una aplicación Symfony puede funcionar en diferentes entornos y cada entorno tendrá un único controlador frontal.
+Por ejemplo, un entorno de desarrollo DEV registrará las advertencias y errores, mientras que un entorno de producción PROD sólo registra los errores. Algunos archivos se vuelven a generar en cada petición en el entorno DEV (para mayor comodidad de los desarrolladores), pero se memorizan en caché en el entorno PROD. Todos los entornos viven juntos en la misma máquina y ejecutan la misma aplicación.
+
+\item \textbf{El directorio app}: \\
+El directorio contiene todos los archivos responsables de la configuración de la aplicación.
+En el desarrollo del dia a dia, se usaran los archivos:
+
+\begin{itemize}
+\item \textbf{routing.yml}: Archivo de enrutado donde encontraremos todas las rutas de la aplicación\\
+\item \textbf{security.yml}: Archivo de seguridad donde podremos configurar la seguridad de la aplicación.\\
+\item \textbf{parameters.ini}: Archivo de conexión a base de datos donde podremos configurar la conexión a nuestra base de datos.\\
+\item \textbf{config.yml}: Archivo de configuración de la aplicación donde podremos además configurar servicios creados por nosotros.\\
+\end{itemize}
+
+Este directorio también contiene el directorio caché de la aplicación (app/cache), un directorio de registro (app/logs), un directorio para archivos de recursos a nivel de la aplicación (app/Resources) y la console.
+
+\item \textbf{El directorio fuente src}: \\
+
+Contiene todo el código real (código PHP, plantillas, archivos de configuración, estilo, etc.) que impulsa a tu aplicación. De hecho, cuando desarrollamos, la mayoría del tiempo lo pasamos escribiendo en este directorio. El código Javascript y css se comprimió usando el YUICompressor para que la aplicación fuese lo más rápida posible.
+
+\item \textbf{El directorio vendor}: \\
+
+Contiene todos los paquetes instalados en Symfony2 y donde podremos almacenar los paquetes que nos hagan falta para desarrollar nuestro proyecto. En el directorio principal de la aplicación en Symfony2 existe un archivo deps el cual se encarga de almacenar las rutas de alojamiento de los paquetes. Por ejemplo, si quisiéramos usar un paquete nuevo en nuestra aplicación deberíamos escribir la ruta del paquete en ese archivo, modificar el archivo autoload.php para cargar el paquete al iniciar la aplicación y registrar el paquete en el AppKernel.php.
+\end{itemize}
+
+Para satisfacer todos los requisitos de la aplicación se hizo necesario instalar algunos paquetes en Symfony2 y utilizar algunas librerías jQuery.\\
+
+Paquetes utilizados en Symfony2:
+
+\begin{itemize}
+\item \textbf{DoctrineFixturesBundle}: Integra la librería de doctrine2 y se usa en aplicación para poder crear fácilmente archivos con datos de prueba en las aplicaciones de Symfony2.
+\item \textbf{PdfBundle}: Integra la librería PHPPdf en Symfony2 para poder crear fácilmente archivos PDF.
+\item \textbf{FOSJsRountingBundle}: Permite utilizar el sistema de enrutamiento de Symfony2 directamente desde el código JavaScript de las plantillas.
+\end{itemize}
+
+Paquetes utilizados en la aplicación:
+
+\begin{itemize}
+\item \textbf{Datatables}: Plugin para JQuery que nos permite darle dinamismo a las tablas añadiéndole más funcionalidad.
+\item \textbf{Fullcalendar}: Plugin para JQuery que nos permite mostrar calendarios muy vistosos.
+\item \textbf{HighCharts}: Plugin para JQuery que nos permite mostrar gráficos muy bonitos y animados.
+\item \textbf{Fancybox}: Plugin para JQuery que nos permite crear cuadros de diálogos de manera elegante.
+\item \textbf{QTips}: Plugin para JQuery que nos permite crear tooltips para los elementos del calendario.
+\item \textbf{Minicolors}: Plugin para jQuery que nos permite crear en un input un desplegable para la selección de un color.
+\item \textbf{JCookie}: Plugin para JQuery para trabajar más cómodamente con cookies.
+\item \textbf{Jquery-ui, Wijmo-ui} Plugins para JQuery que permite poder crear componentes y efectos visuales.
+\end{itemize}

@@ -1,0 +1,102 @@
+\begin{thebibliography}{10}
+
+\bibitem{symfony2}
+Página oficial de {S}ymfony.
+\newblock \\Accesible desde \url{http://www.symfony.com}, 2013.
+
+\bibitem{documentacionphp}
+Manual de {PHP}.
+\newblock \\Accesible desde \url{http://es.php.net/manual/es}, 2013.
+
+\bibitem{docsymfony2}
+Documentación de {S}ymfony.
+\newblock \\Accesible desde \url{http://gitnacho.github.io/symfony-docs-es},
+  2013.
+
+\bibitem{apisymfony}
+{Api Symfony2}.
+\newblock \\Accesible desde \url{http://api.symfony.com/2.0/index.html}, 2013.
+
+\bibitem{conferenciassymfony}
+{Conferencias de Symfony2 en castellano}.
+\newblock \\Accesible desde \url{http://desymfony.com}, 2013.
+
+\bibitem{librojavier}
+{Libro desarrollo ágil con Symfony2}.
+\newblock \\Accesible desde \url{http://www.symfony.es/libro}, 2013.
+
+\bibitem{doctrine}
+{Doctrine}.
+\newblock \\Accesible desde \url{http://www.doctrine-project.org}, 2013.
+
+\bibitem{jquery}
+{Página oficial de JQuery}.
+\newblock \\Accesible desde \url{http://www.jquery.com}, 2013.
+
+\bibitem{documentacionjquery}
+{Manual de JQuery}.
+\newblock \\Accesible desde \url{http://librojquery.com}, 2013.
+
+\bibitem{datatables}
+{Página oficial de JQquery Datatables}.
+\newblock \\Accesible desde \url{http://www.datatables.net}, 2013.
+
+\bibitem{fullcalendar}
+{Página oficial de JQuery FullCalendar}.
+\newblock \\Accesible desde \url{http://arshaw.com/fullcalendar}, 2013.
+
+\bibitem{fancybox}
+{JQuery Fancybox}.
+\newblock \\Accesible desde \url{http://fancybox.net}, 2013.
+
+\bibitem{jqeryui}
+{JQuery UI}.
+\newblock \\Accesible desde \url{http://jqueryui.com}, 2013.
+
+\bibitem{wijmo}
+{Wijmo UI}.
+\newblock \\Accesible desde \url{http://wijmo.com}, 2013.
+
+\bibitem{jsroutingbundle}
+{JsRoutingBundle}.
+\newblock \\Accesible desde
+  \url{https://github.com/FriendsOfSymfony/FOSJsRoutingBundle}, 2013.
+
+\bibitem{fpdf}
+{FPDF}.
+\newblock \\Accesible desde \url{http://www.fpdf.org}, 2013.
+
+\bibitem{pdfbundle}
+{PdfBundle}.
+\newblock \\Accesible desde \url{https://github.com/psliwa/PdfBundle}, 2013.
+
+\bibitem{fixturesbundle}
+{DoctrineFixturesBundle}.
+\newblock \\Accesible desde
+  \url{https://github.com/doctrine/DoctrineFixturesBundle}, 2013.
+
+\bibitem{gruposymfony}
+{Foro Google grupos Symfony}.
+\newblock \\Accesible desde \url{groups.google.es/group/symfony-es}, 2013.
+
+\bibitem{stackoverflow}
+{Foro Stackoverflow}.
+\newblock \\Accesible desde \url{http://stackoverflow.com}, 2013.
+
+\bibitem{wikipediarup}
+{Wikipedia RuP}.
+\newblock \\Accesible desde
+  \url{http://es.wikipedia.org/wiki/Proceso_Unificado_de_Rational}, 2013.
+
+\bibitem{libro1}
+I.~Jacobson G.~Booch, J.~Rumbaugh.
+\newblock {\em El Lenguaje Unificado de Modelado. Guía de Usuario}.
+\newblock Addison Wesley, 1999.
+
+\bibitem{libro2}
+C.~Larman.
+\newblock {\em UML y Patrones: Una introducción al análisis y diseño
+  orientado a objetos y al proceso unificado}.
+\newblock Prentice-Hall, 2003.
+
+\end{thebibliography}

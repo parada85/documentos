@@ -1,0 +1,69 @@
+% ------------------------------------------------------------------------------
+% Este fichero es parte de la plantilla LaTeX para la realización de Proyectos
+% Final de Grado, protegido bajo los términos de la licencia GFDL.
+% Para más información, la licencia completa viene incluida en el
+% fichero fdl-1.3.tex
+
+% Copyright (C) 2012 SPI-FM. Universidad de Cádiz
+% ------------------------------------------------------------------------------
+
+\section{Motivación}
+La elección de un proyecto fin de carrera es muy importante, ya que con él se puede mejorar conocimientos y aprender
+nuevos lenguajes de programación.\\
+La motivación de este proyecto, es poner en práctica todo lo aprendido durante los estudios en un proyecto real y 
+concretamente en programación web, ya que lo que se estudia no es suficiente para llegar a cubrir las necesidades de un proyecto real.\\
+
+\section{Descripción del sistema actual}
+Se concertaron varias tomas de contacto con el cliente para saber sus necesidades. En las primeras nos dimos cuenta de que 
+verdaderamente su sistema presentaba muchos errores y el cliente nos explicó cuales eran sus necesidades.
+El sistema actual con el que trabajan es un software de escritorio, trabajaban desde el sistema operativo Windows, 
+peresenta un aspecto muy poco amigable, carencias de funcionalidades y sin copias de seguridad.
+
+\section{Objetivos y alcance del proyecto} 
+Se debe intentar construir una aplicación que sea muy sencilla de utilizar ya que los usuarios del sistema
+pueden tener conocimientos informáticos limitados. La aplicación al estar basada en web podría ser usada en varios puestos de
+trabajo ya que sólo se instalará una sola vez y se podrá usar en muchos puestos de trabajo. También destacar
+que en la aplicación podrían trabajar muchos usuarios simultáneamente ya que comparten la misma base de datos.
+
+\section{Organización del documento}
+
+La memoria presenta los siguientes contenidos:\\
+
+\begin{enumerate}
+
+\item Introducción:
+
+En este apartado desarrollaremos una pequeña introducción al desarrollo del proyecto describiendo apartados como motivación, descripción del sistema actual y objetos y alcance del proyecto.
+
+\item Planificación: 
+
+En este apartado se describe la metodología usada para la realización del proyecto y la planificación describiendo el tiempo empleado en cada fase.
+
+\item Análisis:
+
+En esta sección se presenta el catálogo de requisitos del sistema de información. Para ello se detallarán los actores del sistema, los requisitos funcionales, los requisitos de información, los requisitos no funcionales, las reglas de negocio y las diferentes alternativas
+tecnológicas.
+
+\item Diseño del Sistema:
+
+En este capítulo se recoge la arquitectura general del sistema de información, el diseño de la interfaz de usuario, el diseño físico de datos y el diseño de componentes software.
+
+\item Implementación del sistema:
+ 
+En este capítulo se describe todos los aspectos relacionados con la implementación del sistema en código, haciendo uso de un determinado entorno tecnológico.
+
+\item Pruebas del sistema:
+
+En este capítulo se documentan los diferentes tipos de pruebas que se han llevado a cabo.
+
+\item Manual de usuario:
+
+ En este capitulo se describe el documento destinado a dar asistencia a las personas que utilizan nuestro sistema.
+\item Manual de instalación:
+
+ En este capitulo de detallarán los pasos para poder poner el sistema correctamente en funcionamiento.
+\item Conclusiones:
+
+ En este capitulo de detallarán las conclusiones que hemos sacado a la finalización de todo el proyecto.
+ \end{enumerate}
+ 

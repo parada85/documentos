@@ -1,0 +1,4139 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  24 MAY 2013 10:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**memoria.tex
+(./memoria.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
+ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
+rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
+kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
+ polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
+lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
+welsh, loaded.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./estilo/paquetes.sty
+
+LaTeX Warning: You have requested package `./estilo/paquetes',
+               but the package provides `paquete'.
+
+Package: paquete 
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2011/10/06 v5.0k Spanish support from the babel system
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\es@datefmt=\count89
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 496.
+Package babel Info: Making . an active character on input line 599.
+Package babel Info: Making < an active character on input line 644.
+Package babel Info: Making > an active character on input line 644.
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2009/07/02 v2.20.1
+\thm@style=\toks18
+\thm@bodyfont=\toks19
+\thm@headfont=\toks20
+\thm@notefont=\toks21
+\thm@headpunct=\toks22
+\thm@preskip=\skip43
+\thm@postskip=\skip44
+\thm@headsep=\skip45
+\dth@everypar=\toks23
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks24
+\ex@=\dimen104
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks25
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks26
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks27
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen113
+\extrarowheight=\dimen114
+\NC@list=\toks29
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box28
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box29
+\shadowsize=\dimen115
+\@Sbox=\box30
+\do@VerbBox=\toks30
+\the@fancyput=\toks31
+\this@fancyput=\toks32
+\EndVerbatimTokens=\toks33
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count103
+\float@exts=\toks34
+\float@box=\box31
+\@float@everytoks=\toks35
+\@floatcapt=\box32
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks36
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen116
+\Gm@wd@mp=\dimen117
+\Gm@odd@mp=\dimen118
+\Gm@even@mp=\dimen119
+\Gm@layoutwidth=\dimen120
+\Gm@layoutheight=\dimen121
+\Gm@layouthoffset=\dimen122
+\Gm@layoutvoffset=\dimen123
+\Gm@dimlist=\toks37
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count107
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen126
+\Hy@linkcounter=\count108
+\Hy@pagecounter=\count109
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count110
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 3941.
+
+
+Package hyperref Warning: Option `pagecolor' is not available anymore.
+
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4300.
+\c@Hy@tempcnt=\count111
+(/usr/local/texlive/2012/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4653.
+\Fld@menulength=\count112
+\Field@Width=\dimen127
+\Fld@charsize=\dimen128
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring ON on input line 5791.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
+\Hy@abspage=\count113
+\c@Item=\count114
+\c@Hfootnote=\count115
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
+\Fld@listcount=\count116
+\c@bookmark@seq@number=\count117
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip51
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/koma-script/scrpage2.sty
+Package: scrpage2 2010/04/22 v2.5 LaTeX2e KOMA-Script package
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count118
+\ST@wd=\dimen129
+\ST@rightskip=\skip52
+\ST@leftskip=\skip53
+\ST@parfillskip=\skip54
+\ST@pageleft=\dimen130
+\ST@headht=\dimen131
+\ST@tailht=\dimen132
+\ST@pagesofar=\dimen133
+\ST@pboxht=\dimen134
+\ST@lineht=\dimen135
+\ST@stretchht=\dimen136
+\ST@prevht=\dimen137
+\ST@toadd=\dimen138
+\ST@dimen=\dimen139
+\ST@pbox=\box33
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks38
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box34
+(/usr/local/texlive/2012/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks41
+))
+\pgf@x=\dimen140
+\pgf@y=\dimen141
+\pgf@xa=\dimen142
+\pgf@ya=\dimen143
+\pgf@xb=\dimen144
+\pgf@yb=\dimen145
+\pgf@xc=\dimen146
+\pgf@yc=\dimen147
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count119
+\c@pgf@countb=\count120
+\c@pgf@countc=\count121
+\c@pgf@countd=\count122
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count123
+\pgfsyssoftpath@bigbuffer@items=\count124
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen148
+\pgfmath@count=\count125
+\pgfmath@box=\box35
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)))
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count126
+))
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen149
+\pgf@picmaxx=\dimen150
+\pgf@picminy=\dimen151
+\pgf@picmaxy=\dimen152
+\pgf@pathminx=\dimen153
+\pgf@pathmaxx=\dimen154
+\pgf@pathminy=\dimen155
+\pgf@pathmaxy=\dimen156
+\pgf@xx=\dimen157
+\pgf@xy=\dimen158
+\pgf@yx=\dimen159
+\pgf@yy=\dimen160
+\pgf@zx=\dimen161
+\pgf@zy=\dimen162
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen163
+\pgf@path@lasty=\dimen164
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen165
+\pgf@shorten@start@additional=\dimen166
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count127
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen167
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen168
+\pgf@pt@y=\dimen169
+\pgf@pt@temp=\dimen170
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen171
+\pgf@sys@shading@range@num=\count128
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box39
+))
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box40
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen172
+\pgf@nodesepend=\dimen173
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen174
+\pgffor@skip=\dimen175
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count129
+\pgfplotmarksize=\dimen176
+)
+\tikz@lastx=\dimen177
+\tikz@lasty=\dimen178
+\tikz@lastxsaved=\dimen179
+\tikz@lastysaved=\dimen180
+\tikzleveldistance=\dimen181
+\tikzsiblingdistance=\dimen182
+\tikz@figbox=\box41
+\tikz@tempbox=\box42
+\tikztreelevel=\count130
+\tikznumberofchildren=\count131
+\tikznumberofcurrentchild=\count132
+\tikz@fig@count=\count133
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count134
+\pgfmatrixcurrentcolumn=\count135
+\pgf@matrix@numberofcolumns=\count136
+)
+\tikz@expandcount=\count137
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+))))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen183
+)
+(./estilo/colores.sty
+
+LaTeX Warning: You have requested package `./estilo/colores',
+               but the package provides `colores'.
+
+Package: colores 
+) (./estilo/comandos.sty)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks47
+\minrowclearance=\skip55
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/acronym/acronym.sty
+Package: acronym 2010/09/08 v1.36 Support for acronyms (Tobias Oetiker)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5 Variant command support
+)
+\AC@clearlist=\toks48
+)
+(./memoria.aux
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+
+
+LaTeX Warning: Label `cu7' multiply defined.
+
+
+LaTeX Warning: Label `cu7' multiply defined.
+
+
+LaTeX Warning: Label `cu7' multiply defined.
+
+
+LaTeX Warning: Label `cu8' multiply defined.
+
+
+LaTeX Warning: Label `cu8' multiply defined.
+
+
+LaTeX Warning: Label `cu8' multiply defined.
+
+
+LaTeX Warning: Label `cu1' multiply defined.
+
+
+LaTeX Warning: Label `cu1' multiply defined.
+
+
+LaTeX Warning: Label `cu1' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `Riesgos' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+
+LaTeX Warning: Label `a' multiply defined.
+
+)
+\openout1 = `memoria.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(99.58464pt, 645.87756pt, 99.58464pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=645.87756pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-14.22636pt
+* \headheight=12.0pt
+* \headsep=28.45274pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=106.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count138
+\scratchdimen=\dimen184
+\scratchbox=\box43
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen185
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks50
+) (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box44
+Package hyperref Info: Link coloring ON on input line 27.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count144
+)
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
+
+(./memoria.out) (./memoria.out)
+\@outlinefile=\write5
+\openout5 = `memoria.out'.
+
+
+
+Package scrpage2 Warning: seems you are using a constant headheight.
+(scrpage2)                If you get overfull \vbox warnings at almost every
+(scrpage2)                page, you should increase headheight e.g. writing
+(scrpage2)                 \setlength{\headheight}{1.1\baselineskip}
+(scrpage2)                into the preamble of your document.
+(scrpage2)                A better solution would be to use typearea package.
+
+ABD: EveryShipout initializing macros (./portadas/portada-inicial.tex
+<./img/logo-uca.png, id=477, 468.75125pt x 602.25pt>
+File: ./img/logo-uca.png Graphic file (type png)
+ <use ./img/logo-uca.png>
+Package pdftex.def Info: ./img/logo-uca.png used on input line 15.
+(pdftex.def)             Requested size: 136.57462pt x 175.4659pt.
+
+[1
+
+
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/l
+ogo-uca.png>]) [2
+
+] (./portadas/portada-secundaria.tex
+File: ./img/logo-uca.png Graphic file (type png)
+
+<use ./img/logo-uca.png>
+Package pdftex.def Info: ./img/logo-uca.png used on input line 13.
+(pdftex.def)             Requested size: 136.57462pt x 175.4659pt.
+) [3] [4
+
+] (./contenido/agradecimientos.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 12--42
+
+ []
+
+[5] (./contenido/resumen.tex
+Package acronym Info: Label `acro:PHP' newly defined as it shall be overridden
+although it is yet undefined on input line 22.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--23
+
+ []
+
+) [6] (./memoria.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+
+] [2])
+\tf@toc=\write6
+\openout6 = `memoria.toc'.
+
+
+[3] [4
+
+] (./memoria.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [5] [6] [7] [8])
+\tf@lof=\write7
+\openout7 = `memoria.lof'.
+
+ [9] [10
+
+] (./memoria.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [11] [12])
+\tf@lot=\write8
+\openout8 = `memoria.lot'.
+
+
+[13] [14
+
+]
+Cap\'{\i }tulo 1.
+(./contenido/introduccion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.36 \item P
+            lanificación: [1
+
+])pdfTeX warning (ext4): destination with the same identifier (name{page.2}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.71 \chapter
+             {Planificación} [2]
+Cap\'{\i }tulo 2.
+(./contenido/planificacion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 C
+      ada fase se completa con la realización de varias iteraciones en las ...
+[3
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.56 \item \textbf
+                  {Quinta iteración: Aumento de las funcionalidades}\\
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64 \newpage
+              [5] <./img/gantt.png, id=1281, 1513.655pt x 345.29pt>
+File: ./img/gantt.png Graphic file (type png)
+
+<use ./img/gantt.png>
+Package pdftex.def Info: ./img/gantt.png used on input line 67.
+(pdftex.def)             Requested size: 1513.65132pt x 345.28914pt.
+
+Overfull \vbox (0.75352pt too high) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.71 
+      [6 <./img/gantt.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 99.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+[][][][][]$\T1/cmtt/m/n/9 http : / / www . uca . es / recursos / doc / Unidades
+ / Area _ Personal / Capitulo _ VI / 1143959322 _ 942012113011 .
+ []
+
+[7]) [8]
+Cap\'{\i }tulo 3.
+(./contenido/analisis.tex
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+[9
+
+] <./img/gestionclientes.png, id=1306, 1192.455pt x 597.23125pt>
+File: ./img/gestionclientes.png Graphic file (type png)
+
+<use ./img/gestionclientes.png>
+Package pdftex.def Info: ./img/gestionclientes.png used on input line 62.
+(pdftex.def)             Requested size: 476.97356pt x 238.88826pt.
+
+Overfull \hbox (21.72945pt too wide) in paragraph at lines 62--63
+ [][] 
+ []
+
+
+Underfull \vbox (badness 1205) has occurred while \output is active []
+
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+[11 <./img/gestionclientes.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+
+ []
+
+[13] <./img/gestionproductos.png, id=1352, 1916.15875pt x 699.61375pt>
+File: ./img/gestionproductos.png Graphic file (type png)
+
+<use ./img/gestionproductos.png>
+Package pdftex.def Info: ./img/gestionproductos.png used on input line 231.
+(pdftex.def)             Requested size: 483.6874pt x 227.61731pt.
+
+Overfull \hbox (28.44328pt too wide) in paragraph at lines 231--232
+ [][] 
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 257--259
+
+ []
+
+[15 <./img/gestionproductos.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 325--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--352
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 402--404
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 439--441
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 470--472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--497
+
+ []
+
+[20] [21] <./img/gestionproveedores.png, id=1464, 1042.89626pt x 617.30624pt>
+File: ./img/gestionproveedores.png Graphic file (type png)
+
+<use ./img/gestionproveedores.png>
+Package pdftex.def Info: ./img/gestionproveedores.png used on input line 564.
+(pdftex.def)             Requested size: 341.43565pt x 227.61792pt.
+ [22 <./img/gestionproveedores.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 590--592
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--629
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 658--660
+
+ []
+
+[24] <./img/gestionempledos.png, id=1504, 1450.41875pt x 711.65875pt>
+File: ./img/gestionempledos.png Graphic file (type png)
+
+<use ./img/gestionempledos.png>
+Package pdftex.def Info: ./img/gestionempledos.png used on input line 725.
+(pdftex.def)             Requested size: 341.42387pt x 227.616pt.
+ [25]
+Underfull \hbox (badness 10000) in paragraph at lines 752--754
+
+ []
+
+[26 <./img/gestionempledos.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 790--792
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 827--829
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 859--861
+
+ []
+
+[29] [30] <./img/gestionventas.png, id=1588, 1123.19624pt x 654.445pt>
+File: ./img/gestionventas.png Graphic file (type png)
+
+<use ./img/gestionventas.png>
+Package pdftex.def Info: ./img/gestionventas.png used on input line 966.
+(pdftex.def)             Requested size: 449.27054pt x 261.77336pt.
+ [31 <./img/gestionventas.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 997--999
+
+ []
+
+[32] [33] <./img/gestiondevoluciones.png, id=1628, 1008.76875pt x 571.13374pt>
+File: ./img/gestiondevoluciones.png Graphic file (type png)
+
+<use ./img/gestiondevoluciones.png>
+Package pdftex.def Info: ./img/gestiondevoluciones.png used on input line 1094.
+
+(pdftex.def)             Requested size: 403.50035pt x 228.44945pt.
+ [34 <./img/gestiondevoluciones.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1121--1123
+
+ []
+
+[35] <./img/gestionreservas.png, id=1655, 1028.84375pt x 504.88625pt>
+File: ./img/gestionreservas.png Graphic file (type png)
+
+<use ./img/gestionreservas.png>
+Package pdftex.def Info: ./img/gestionreservas.png used on input line 1216.
+(pdftex.def)             Requested size: 411.53021pt x 201.95091pt.
+ [36]
+Underfull \hbox (badness 10000) in paragraph at lines 1247--1249
+
+ []
+
+[37 <./img/gestionreservas.png>] [38]
+Underfull \hbox (badness 10000) in paragraph at lines 1340--1342
+
+ []
+
+[39] <./img/gestionapartados.png, id=1714, 931.48pt x 513.92pt>
+File: ./img/gestionapartados.png Graphic file (type png)
+
+<use ./img/gestionapartados.png>
+Package pdftex.def Info: ./img/gestionapartados.png used on input line 1410.
+(pdftex.def)             Requested size: 372.5854pt x 205.56435pt.
+ [40] [41 <./img/gestionapartados.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
+
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 1534--1536
+
+ []
+
+[43] [44] <./img/gestioncitaseinformes.png, id=1783, 947.54pt x 808.01875pt>
+File: ./img/gestioncitaseinformes.png Graphic file (type png)
+
+<use ./img/gestioncitaseinformes.png>
+Package pdftex.def Info: ./img/gestioncitaseinformes.png used on input line 158
+6.
+(pdftex.def)             Requested size: 473.76883pt x 404.00839pt.
+
+Overfull \hbox (18.52472pt too wide) in paragraph at lines 1586--1587
+ [][] 
+ []
+
+[45 <./img/gestioncitaseinformes.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1612--1614
+
+ []
+
+[46] [47] [48] [49]
+<./img/gestionfestivos.png, id=1849, 1112.155pt x 419.5675pt>
+File: ./img/gestionfestivos.png Graphic file (type png)
+
+<use ./img/gestionfestivos.png>
+Package pdftex.def Info: ./img/gestionfestivos.png used on input line 1837.
+(pdftex.def)             Requested size: 444.85413pt x 167.82402pt.
+ [50 <./img/gestionfestivos.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1864--1866
+
+ []
+
+[51] <./img/login.png, id=1876, 634.37pt x 349.305pt>
+File: ./img/login.png Graphic file (type png)
+ <use ./img/login.png>
+Package pdftex.def Info: ./img/login.png used on input line 1953.
+(pdftex.def)             Requested size: 317.18422pt x 174.65207pt.
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 1976--1978
+
+ []
+
+[53 <./img/login.png>] [54]
+<./img/estadisticas.png, id=1916, 614.295pt x 292.09125pt>
+File: ./img/estadisticas.png Graphic file (type png)
+
+<use ./img/estadisticas.png>
+Package pdftex.def Info: ./img/estadisticas.png used on input line 2068.
+(pdftex.def)             Requested size: 307.14674pt x 146.04526pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2089--2091
+
+ []
+
+[55 <./img/estadisticas.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2110--2112
+
+ []
+
+<./img/gestionpedidos.png, id=1923, 962.59625pt x 509.905pt>
+File: ./img/gestionpedidos.png Graphic file (type png)
+
+<use ./img/gestionpedidos.png>
+Package pdftex.def Info: ./img/gestionpedidos.png used on input line 2126.
+(pdftex.def)             Requested size: 385.03168pt x 203.95837pt.
+ [56 <./img/gestionpedidos.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2155--2157
+
+ []
+
+[57] [58] <./img/gestionararqueos.png, id=1962, 880.28876pt x 294.09875pt>
+File: ./img/gestionararqueos.png Graphic file (type png)
+
+<use ./img/gestionararqueos.png>
+Package pdftex.def Info: ./img/gestionararqueos.png used on input line 2261.
+(pdftex.def)             Requested size: 352.10927pt x 117.6374pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2288
+
+ []
+
+[59 <./img/gestionararqueos.png>] [60]
+<./img/gestionpermisos.png, id=1987, 1187.43625pt x 620.3175pt>
+File: ./img/gestionpermisos.png Graphic file (type png)
+
+<use ./img/gestionpermisos.png>
+Package pdftex.def Info: ./img/gestionpermisos.png used on input line 2357.
+(pdftex.def)             Requested size: 474.9661pt x 248.1226pt.
+
+Overfull \hbox (19.72198pt too wide) in paragraph at lines 2357--2358
+ [][] 
+ []
+
+[61 <./img/gestionpermisos.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2381--2383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2410--2412
+
+ []
+
+[62]
+Underfull \hbox (badness 10000) in paragraph at lines 2439--2441
+
+ []
+
+[63] [64] <./img/UML.png, id=2036, 1627.07875pt x 1165.35374pt>
+File: ./img/UML.png Graphic file (type png)
+
+<use ./img/UML.png>
+Package pdftex.def Info: ./img/UML.png used on input line 2503.
+(pdftex.def)             Requested size: 1627.07478pt x 1165.3509pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65
+
+ <./img/UML.png>] <./img/aentrarsistema.png, id=2042, 390.45876pt x 137.51375pt
+>
+File: ./img/aentrarsistema.png Graphic file (type png)
+
+<use ./img/aentrarsistema.png>
+Package pdftex.def Info: ./img/aentrarsistema.png used on input line 2518.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/asalirsistema.png, id=2043, 390.45876pt x 137.51375pt>
+File: ./img/asalirsistema.png Graphic file (type png)
+
+<use ./img/asalirsistema.png>
+Package pdftex.def Info: ./img/asalirsistema.png used on input line 2525.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aolvidocontrasena.png, id=2044, 390.45876pt x 137.51375pt>
+File: ./img/aolvidocontrasena.png Graphic file (type png)
+
+<use ./img/aolvidocontrasena.png>
+Package pdftex.def Info: ./img/aolvidocontrasena.png used on input line 2532.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/agenerarcontrasena.png, id=2045, 390.45876pt x 137.51375pt>
+File: ./img/agenerarcontrasena.png Graphic file (type png)
+
+<use ./img/agenerarcontrasena.png>
+Package pdftex.def Info: ./img/agenerarcontrasena.png used on input line 2539.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+ [66 <./img/aentrarsistema.png> <./img/asalirsistema.png> <./img/aolvidocontras
+ena.png> <./img/agenerarcontrasena.png>]
+<./img/aregistrarcliente.png, id=2051, 390.45876pt x 137.51375pt>
+File: ./img/aregistrarcliente.png Graphic file (type png)
+
+<use ./img/aregistrarcliente.png>
+Package pdftex.def Info: ./img/aregistrarcliente.png used on input line 2548.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aeditarcliente.png, id=2052, 390.45876pt x 137.51375pt>
+File: ./img/aeditarcliente.png Graphic file (type png)
+
+<use ./img/aeditarcliente.png>
+Package pdftex.def Info: ./img/aeditarcliente.png used on input line 2555.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aborrarcliente.png, id=2053, 390.45876pt x 137.51375pt>
+File: ./img/aborrarcliente.png Graphic file (type png)
+
+<use ./img/aborrarcliente.png>
+Package pdftex.def Info: ./img/aborrarcliente.png used on input line 2562.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/acliente.png, id=2054, 390.45876pt x 137.51375pt>
+File: ./img/acliente.png Graphic file (type png)
+
+<use ./img/acliente.png>
+Package pdftex.def Info: ./img/acliente.png used on input line 2569.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/avercliente.png, id=2055, 390.45876pt x 137.51375pt>
+File: ./img/avercliente.png Graphic file (type png)
+
+<use ./img/avercliente.png>
+Package pdftex.def Info: ./img/avercliente.png used on input line 2576.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aregistarventa.png, id=2056, 483.8075pt x 220.825pt>
+File: ./img/aregistarventa.png Graphic file (type png)
+
+<use ./img/aregistarventa.png>
+Package pdftex.def Info: ./img/aregistarventa.png used on input line 2585.
+(pdftex.def)             Requested size: 241.90315pt x 110.41222pt.
+ [67
+
+ <./img/aregistrarcliente.png> <./img/aeditarcliente.png> <./img/aborrarcliente
+.png> <./img/acliente.png> <./img/avercliente.png>] <./img/agenerarfactura.png,
+ id=2062, 390.45876pt x 137.51375pt>
+File: ./img/agenerarfactura.png Graphic file (type png)
+
+<use ./img/agenerarfactura.png>
+Package pdftex.def Info: ./img/agenerarfactura.png used on input line 2592.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aventa.png, id=2063, 390.45876pt x 137.51375pt>
+File: ./img/aventa.png Graphic file (type png)
+ <use ./img/aventa.png>
+Package pdftex.def Info: ./img/aventa.png used on input line 2599.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/averproductosventa.png, id=2064, 390.45876pt x 137.51375pt>
+File: ./img/averproductosventa.png Graphic file (type png)
+
+<use ./img/averproductosventa.png>
+Package pdftex.def Info: ./img/averproductosventa.png used on input line 2606.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+ [68 <./img/aregistarventa.png> <./img/agenerarfactura.png> <./img/aventa.png> 
+<./img/averproductosventa.png>]
+<./img/aregistardevolucion.png, id=2070, 527.9725pt x 219.82124pt>
+File: ./img/aregistardevolucion.png Graphic file (type png)
+
+<use ./img/aregistardevolucion.png>
+Package pdftex.def Info: ./img/aregistardevolucion.png used on input line 2615.
+
+(pdftex.def)             Requested size: 263.9856pt x 109.91034pt.
+
+<./img/agenerardocumento.png, id=2071, 390.45876pt x 137.51375pt>
+File: ./img/agenerardocumento.png Graphic file (type png)
+
+<use ./img/agenerardocumento.png>
+Package pdftex.def Info: ./img/agenerardocumento.png used on input line 2622.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/adevolucion.png, id=2072, 390.45876pt x 137.51375pt>
+File: ./img/adevolucion.png Graphic file (type png)
+
+<use ./img/adevolucion.png>
+Package pdftex.def Info: ./img/adevolucion.png used on input line 2629.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/averproductosdevueltos.png, id=2073, 390.45876pt x 137.51375pt>
+File: ./img/averproductosdevueltos.png Graphic file (type png)
+
+<use ./img/averproductosdevueltos.png>
+Package pdftex.def Info: ./img/averproductosdevueltos.png used on input line 26
+36.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+ [69 <./img/aregistardevolucion.png> <./img/agenerardocumento.png> <./img/adevo
+lucion.png> <./img/averproductosdevueltos.png>] <./img/aregistarreserva.png, id
+=2079, 569.12625pt x 219.82124pt>
+File: ./img/aregistarreserva.png Graphic file (type png)
+
+<use ./img/aregistarreserva.png>
+Package pdftex.def Info: ./img/aregistarreserva.png used on input line 2645.
+(pdftex.def)             Requested size: 284.56242pt x 109.91034pt.
+
+<./img/agenerardocumentoreserva.png, id=2080, 390.45876pt x 137.51375pt>
+File: ./img/agenerardocumentoreserva.png Graphic file (type png)
+
+<use ./img/agenerardocumentoreserva.png>
+Package pdftex.def Info: ./img/agenerardocumentoreserva.png used on input line 
+2652.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/areserva.png, id=2081, 390.45876pt x 137.51375pt>
+File: ./img/areserva.png Graphic file (type png)
+
+<use ./img/areserva.png>
+Package pdftex.def Info: ./img/areserva.png used on input line 2659.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/averproductosreserva.png, id=2082, 390.45876pt x 137.51375pt>
+File: ./img/averproductosreserva.png Graphic file (type png)
+
+<use ./img/averproductosreserva.png>
+Package pdftex.def Info: ./img/averproductosreserva.png used on input line 2666
+.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aavisada.png, id=2083, 390.45876pt x 137.51375pt>
+File: ./img/aavisada.png Graphic file (type png)
+
+<use ./img/aavisada.png>
+Package pdftex.def Info: ./img/aavisada.png used on input line 2673.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aconvertir.png, id=2084, 390.45876pt x 137.51375pt>
+File: ./img/aconvertir.png Graphic file (type png)
+
+<use ./img/aconvertir.png>
+Package pdftex.def Info: ./img/aconvertir.png used on input line 2680.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+ [70 <./img/aregistarreserva.png> <./img/agenerardocumentoreserva.png> <./img/a
+reserva.png> <./img/averproductosreserva.png> <./img/aavisada.png>] <./img/areg
+istrarcita.png, id=2090, 471.7625pt x 160.6pt>
+File: ./img/aregistrarcita.png Graphic file (type png)
+
+<use ./img/aregistrarcita.png>
+Package pdftex.def Info: ./img/aregistrarcita.png used on input line 2689.
+(pdftex.def)             Requested size: 235.88066pt x 80.29979pt.
+
+<./img/aborrarcita.png, id=2091, 390.45876pt x 137.51375pt>
+File: ./img/aborrarcita.png Graphic file (type png)
+
+<use ./img/aborrarcita.png>
+Package pdftex.def Info: ./img/aborrarcita.png used on input line 2696.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/acita.png, id=2092, 389.455pt x 137.51375pt>
+File: ./img/acita.png Graphic file (type png)
+ <use ./img/acita.png>
+Package pdftex.def Info: ./img/acita.png used on input line 2703.
+(pdftex.def)             Requested size: 194.72702pt x 68.7567pt.
+
+<./img/acitas.png, id=2093, 390.45876pt x 137.51375pt>
+File: ./img/acitas.png Graphic file (type png)
+ <use ./img/acitas.png>
+Package pdftex.def Info: ./img/acitas.png used on input line 2710.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/ainforme.png, id=2094, 390.45876pt x 137.51375pt>
+File: ./img/ainforme.png Graphic file (type png)
+
+<use ./img/ainforme.png>
+Package pdftex.def Info: ./img/ainforme.png used on input line 2717.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/avercita.png, id=2095, 390.45876pt x 137.51375pt>
+File: ./img/avercita.png Graphic file (type png)
+
+<use ./img/avercita.png>
+Package pdftex.def Info: ./img/avercita.png used on input line 2724.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/averinforme.png, id=2096, 390.45876pt x 137.51375pt>
+File: ./img/averinforme.png Graphic file (type png)
+
+<use ./img/averinforme.png>
+Package pdftex.def Info: ./img/averinforme.png used on input line 2731.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/agenerardocumentoinforme.png, id=2097, 390.45876pt x 137.51375pt>
+File: ./img/agenerardocumentoinforme.png Graphic file (type png)
+
+<use ./img/agenerardocumentoinforme.png>
+Package pdftex.def Info: ./img/agenerardocumentoinforme.png used on input line 
+2738.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/agenerarinformeconcita.png, id=2098, 423.5825pt x 136.51pt>
+File: ./img/agenerarinformeconcita.png Graphic file (type png)
+
+<use ./img/agenerarinformeconcita.png>
+Package pdftex.def Info: ./img/agenerarinformeconcita.png used on input line 27
+45.
+(pdftex.def)             Requested size: 211.79073pt x 68.25482pt.
+
+<./img/agenerarinformesincita.png, id=2099, 390.45876pt x 137.51375pt>
+File: ./img/agenerarinformesincita.png Graphic file (type png)
+
+<use ./img/agenerarinformesincita.png>
+Package pdftex.def Info: ./img/agenerarinformesincita.png used on input line 27
+52.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+ [71 <./img/aconvertir.png> <./img/aregistrarcita.png> <./img/aborrarcita.png> 
+<./img/acita.png> <./img/acitas.png>]
+[72 <./img/ainforme.png> <./img/avercita.png> <./img/averinforme.png> <./img/ag
+enerardocumentoinforme.png> <./img/agenerarinformeconcita.png> <./img/agenerari
+nformesincita.png>]
+<./img/aregistrarpedido.png, id=2110, 390.45876pt x 180.675pt>
+File: ./img/aregistrarpedido.png Graphic file (type png)
+
+<use ./img/aregistrarpedido.png>
+Package pdftex.def Info: ./img/aregistrarpedido.png used on input line 2761.
+(pdftex.def)             Requested size: 195.2289pt x 90.33727pt.
+
+<./img/agenerardocumentopedido.png, id=2111, 390.45876pt x 137.51375pt>
+File: ./img/agenerardocumentopedido.png Graphic file (type png)
+
+<use ./img/agenerardocumentopedido.png>
+Package pdftex.def Info: ./img/agenerardocumentopedido.png used on input line 2
+768.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/apedido.png, id=2112, 390.45876pt x 137.51375pt>
+File: ./img/apedido.png Graphic file (type png)
+
+<use ./img/apedido.png>
+Package pdftex.def Info: ./img/apedido.png used on input line 2775.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/averproductospedido.png, id=2113, 390.45876pt x 137.51375pt>
+File: ./img/averproductospedido.png Graphic file (type png)
+
+<use ./img/averproductospedido.png>
+Package pdftex.def Info: ./img/averproductospedido.png used on input line 2782.
+
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/arecepcionarpedido.png, id=2114, 390.45876pt x 137.51375pt>
+File: ./img/arecepcionarpedido.png Graphic file (type png)
+
+<use ./img/arecepcionarpedido.png>
+Package pdftex.def Info: ./img/arecepcionarpedido.png used on input line 2789.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aregistrarempleado.png, id=2115, 390.45876pt x 137.51375pt>
+File: ./img/aregistrarempleado.png Graphic file (type png)
+
+<use ./img/aregistrarempleado.png>
+Package pdftex.def Info: ./img/aregistrarempleado.png used on input line 2799.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+ [73
+
+ <./img/aregistrarpedido.png> <./img/agenerardocumentopedido.png> <./img/apedid
+o.png> <./img/averproductospedido.png> <./img/arecepcionarpedido.png>]
+<./img/aregistrarmedico.png, id=2121, 390.45876pt x 137.51375pt>
+File: ./img/aregistrarmedico.png Graphic file (type png)
+
+<use ./img/aregistrarmedico.png>
+Package pdftex.def Info: ./img/aregistrarmedico.png used on input line 2806.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/averconexiones.png, id=2122, 390.45876pt x 137.51375pt>
+File: ./img/averconexiones.png Graphic file (type png)
+
+<use ./img/averconexiones.png>
+Package pdftex.def Info: ./img/averconexiones.png used on input line 2813.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/avercambios.png, id=2123, 390.45876pt x 137.51375pt>
+File: ./img/avercambios.png Graphic file (type png)
+
+<use ./img/avercambios.png>
+Package pdftex.def Info: ./img/avercambios.png used on input line 2820.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+ [74 <./img/aregistrarempleado.png> <./img/aregistrarmedico.png> <./img/avercon
+exiones.png> <./img/avercambios.png>]
+<./img/aregistrarpermiso.png, id=2130, 390.45876pt x 137.51375pt>
+File: ./img/aregistrarpermiso.png Graphic file (type png)
+
+<use ./img/aregistrarpermiso.png>
+Package pdftex.def Info: ./img/aregistrarpermiso.png used on input line 2829.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aborrarpermiso.png, id=2131, 390.45876pt x 137.51375pt>
+File: ./img/aborrarpermiso.png Graphic file (type png)
+
+<use ./img/aborrarpermiso.png>
+Package pdftex.def Info: ./img/aborrarpermiso.png used on input line 2836.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aborrarpermisos.png, id=2132, 390.45876pt x 137.51375pt>
+File: ./img/aborrarpermisos.png Graphic file (type png)
+
+<use ./img/aborrarpermisos.png>
+Package pdftex.def Info: ./img/aborrarpermisos.png used on input line 2843.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/amodificarpermiso.png, id=2133, 390.45876pt x 137.51375pt>
+File: ./img/amodificarpermiso.png Graphic file (type png)
+
+<use ./img/amodificarpermiso.png>
+Package pdftex.def Info: ./img/amodificarpermiso.png used on input line 2850.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/alistarpermisos.png, id=2134, 390.45876pt x 137.51375pt>
+File: ./img/alistarpermisos.png Graphic file (type png)
+
+<use ./img/alistarpermisos.png>
+Package pdftex.def Info: ./img/alistarpermisos.png used on input line 2857.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+ [75
+
+ <./img/aregistrarpermiso.png> <./img/aborrarpermiso.png> <./img/aborrarpermiso
+s.png> <./img/amodificarpermiso.png> <./img/alistarpermisos.png>]
+<./img/acalendariopermisos.png, id=2140, 390.45876pt x 137.51375pt>
+File: ./img/acalendariopermisos.png Graphic file (type png)
+
+<use ./img/acalendariopermisos.png>
+Package pdftex.def Info: ./img/acalendariopermisos.png used on input line 2866.
+
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aregistrarfestivo.png, id=2141, 390.45876pt x 137.51375pt>
+File: ./img/aregistrarfestivo.png Graphic file (type png)
+
+<use ./img/aregistrarfestivo.png>
+Package pdftex.def Info: ./img/aregistrarfestivo.png used on input line 2874.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aborrarfestivo.png, id=2142, 390.45876pt x 137.51375pt>
+File: ./img/aborrarfestivo.png Graphic file (type png)
+
+<use ./img/aborrarfestivo.png>
+Package pdftex.def Info: ./img/aborrarfestivo.png used on input line 2881.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/afestivo.png, id=2143, 390.45876pt x 137.51375pt>
+File: ./img/afestivo.png Graphic file (type png)
+
+<use ./img/afestivo.png>
+Package pdftex.def Info: ./img/afestivo.png used on input line 2888.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/afestivos.png, id=2144, 390.45876pt x 137.51375pt>
+File: ./img/afestivos.png Graphic file (type png)
+
+<use ./img/afestivos.png>
+Package pdftex.def Info: ./img/afestivos.png used on input line 2895.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+ [76
+
+ <./img/acalendariopermisos.png> <./img/aregistrarfestivo.png> <./img/aborrarfe
+stivo.png> <./img/afestivo.png> <./img/afestivos.png>] <./img/anuevoarqueo.png,
+ id=2150, 579.16376pt x 137.51375pt>
+File: ./img/anuevoarqueo.png Graphic file (type png)
+
+<use ./img/anuevoarqueo.png>
+Package pdftex.def Info: ./img/anuevoarqueo.png used on input line 2904.
+(pdftex.def)             Requested size: 289.58116pt x 68.7567pt.
+
+<./img/aarqueos.png, id=2151, 390.45876pt x 137.51375pt>
+File: ./img/aarqueos.png Graphic file (type png)
+
+<use ./img/aarqueos.png>
+Package pdftex.def Info: ./img/aarqueos.png used on input line 2911.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aarqueoscalendario.png, id=2152, 390.45876pt x 137.51375pt>
+File: ./img/aarqueoscalendario.png Graphic file (type png)
+
+<use ./img/aarqueoscalendario.png>
+Package pdftex.def Info: ./img/aarqueoscalendario.png used on input line 2918.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aestadistica.png, id=2153, 390.45876pt x 137.51375pt>
+File: ./img/aestadistica.png Graphic file (type png)
+
+<use ./img/aestadistica.png>
+Package pdftex.def Info: ./img/aestadistica.png used on input line 2926.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+
+<./img/aestadistica1.png, id=2154, 390.45876pt x 137.51375pt>
+File: ./img/aestadistica1.png Graphic file (type png)
+
+<use ./img/aestadistica1.png>
+Package pdftex.def Info: ./img/aestadistica1.png used on input line 2933.
+(pdftex.def)             Requested size: 195.2289pt x 68.7567pt.
+ [77
+
+ <./img/anuevoarqueo.png> <./img/aarqueos.png> <./img/aarqueoscalendario.png> <
+./img/aestadistica.png> <./img/aestadistica1.png>]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 2944--2960
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 2966--2982
+[][] 
+ []
+
+[78]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 2987--3003
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3007--3023
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3027--3043
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[79
+
+]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3048--3064
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3068--3084
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3088--3104
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3108--3122
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3126--3142
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3146--3160
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3164--3181
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3186--3224
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3227--3243
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3247--3261
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3266--3282
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3286--3300
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3304--3340
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[80] [81] [82] [83] [84] [85]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3345--3361
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3365--3381
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3385--3399
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3403--3419
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3423--3437
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3441--3455
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[86
+
+]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3460--3498
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 10.63454pt on input line 3499.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[87] [88]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3504--3520
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3524--3538
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3542--3558
+[][] 
+ []
+
+[89
+
+]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3563--3600
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 5.6709pt on input line 3601.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[90]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3606--3634
+[][] 
+ []
+
+[91
+
+
+]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3639--3655
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3659--3673
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3677--3691
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3696--3710
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3714--3730
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3734--3750
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[92] [93]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3755--3771
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3775--3791
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3795--3811
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3815--3831
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3836--3850
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3854--3868
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3872--3893
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[94
+
+]
+
+LaTeX Warning: Text page 95 contains only floats.
+
+
+Underfull \vbox (badness 1062) has occurred while \output is active []
+
+ [95]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3898--3931
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3935--3951
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3955--3969
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3974--3990
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 3994--4010
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4014--4030
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4034--4050
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4054--4070
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4074--4088
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4092--4106
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4110--4125
+[][]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4129--4143
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[96] [97] [98] [99] [100] [101]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4149--4163
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4167--4183
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4187--4203
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4207--4222
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4226--4243
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4247--4264
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[102
+
+] [103] [104] [105]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4269--4286
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4290--4307
+[][] 
+ []
+
+[106
+
+]
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4312--4328
+[][] 
+ []
+
+
+Overfull \hbox (25.19995pt too wide) in paragraph at lines 4332--4348
+[][] 
+ []
+
+[107
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4379--4382
+
+ []
+
+[108]) [109] [110
+
+]
+Cap\'{\i }tulo 4.
+(./contenido/diseno.tex <./img/mvc.png, id=2301, 412.54124pt x 552.56438pt>
+File: ./img/mvc.png Graphic file (type png)
+
+<use ./img/mvc.png>
+Package pdftex.def Info: ./img/mvc.png used on input line 34.
+(pdftex.def)             Requested size: 185.64185pt x 248.65166pt.
+ [111]
+<./img/mockup_cliente.png, id=2307, 803.0pt x 602.25pt>
+File: ./img/mockup_cliente.png Graphic file (type png)
+
+<use ./img/mockup_cliente.png>
+Package pdftex.def Info: ./img/mockup_cliente.png used on input line 45.
+(pdftex.def)             Requested size: 321.1943pt x 240.89572pt.
+
+<./img/mockup_login.png, id=2308, 803.0pt x 602.25pt>
+File: ./img/mockup_login.png Graphic file (type png)
+
+<use ./img/mockup_login.png>
+Package pdftex.def Info: ./img/mockup_login.png used on input line 52.
+(pdftex.def)             Requested size: 321.1943pt x 240.89572pt.
+ [112 <./img/mvc.png> <./img/mockup_cliente.png>]
+[113 <./img/mockup_login.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Overfull \hbox (8.9077pt too wide) in paragraph at lines 94--96
+\T1/cmr/m/n/10.95 Cliente ($[]$,dni,nombre,apellido1,apellido2,direccion.locali
+dad,provincia,telefono,movil,email) 
+ []
+
+
+Overfull \hbox (27.973pt too wide) in paragraph at lines 96--98
+\T1/cmr/m/n/10.95 Producto ($[]$,descripcion,stock,reservado,apartado,pventa,pc
+ompra,iva,proveedor_id,familia_id) 
+ []
+
+[114]
+Overfull \hbox (15.51746pt too wide) in paragraph at lines 128--130
+\T1/cmr/m/n/10.95 Empleado ($[]$,dni,nombre,username,apellido1,apellido2,email,
+localidad,provincia,claveusuario, 
+ []
+
+[115]
+Overfull \hbox (3.65579pt too wide) in paragraph at lines 265--315
+ [][] 
+ []
+
+
+Overfull \hbox (7.09312pt too wide) in paragraph at lines 342--364
+ [][] 
+ []
+
+
+Overfull \hbox (9.78949pt too wide) in paragraph at lines 618--640
+ [][] 
+ []
+
+[116] [117] [118] [119] [120] [121] [122]
+Overfull \hbox (27.53375pt too wide) in paragraph at lines 746--794
+ [][] 
+ []
+
+[123
+
+
+] <./img/diagramaclases1.png, id=2362, 1689.31125pt x 1307.88625pt>
+File: ./img/diagramaclases1.png Graphic file (type png)
+
+<use ./img/diagramaclases1.png>
+Package pdftex.def Info: ./img/diagramaclases1.png used on input line 806.
+(pdftex.def)             Requested size: 1689.30714pt x 1307.88306pt.
+
+<./img/diagramaclases2.png, id=2363, 1861.95625pt x 1081.03876pt>
+File: ./img/diagramaclases2.png Graphic file (type png)
+
+<use ./img/diagramaclases2.png>
+Package pdftex.def Info: ./img/diagramaclases2.png used on input line 813.
+(pdftex.def)             Requested size: 1861.95172pt x 1081.03612pt.
+
+
+LaTeX Warning: Float too large for page by 7.84932pt on input line 816.
+
+[124
+
+ <./img/diagramaclases1.png>] [125 <./img/diagramaclases2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 820--821
+
+ []
+
+<./img/registrarcliente.png, id=2373, 801.99625pt x 717.68124pt>
+File: ./img/registrarcliente.png Graphic file (type png)
+
+<use ./img/registrarcliente.png>
+Package pdftex.def Info: ./img/registrarcliente.png used on input line 825.
+(pdftex.def)             Requested size: 400.99713pt x 358.83974pt.
+ [126
+
+ <./img/registrarcliente.png>]
+<./img/registrarcliente1.png, id=2378, 442.65375pt x 247.92625pt>
+File: ./img/registrarcliente1.png Graphic file (type png)
+
+<use ./img/registrarcliente1.png>
+Package pdftex.def Info: ./img/registrarcliente1.png used on input line 833.
+(pdftex.def)             Requested size: 221.32632pt x 123.96281pt.
+
+<./img/registrarcliente2.png, id=2379, 514.92375pt x 378.41376pt>
+File: ./img/registrarcliente2.png Graphic file (type png)
+
+<use ./img/registrarcliente2.png>
+Package pdftex.def Info: ./img/registrarcliente2.png used on input line 840.
+(pdftex.def)             Requested size: 257.46124pt x 189.2064pt.
+ [127
+
+ <./img/registrarcliente1.png> <./img/registrarcliente2.png>]
+<./img/editarcliente.png, id=2384, 818.05624pt x 641.39626pt>
+File: ./img/editarcliente.png Graphic file (type png)
+
+<use ./img/editarcliente.png>
+Package pdftex.def Info: ./img/editarcliente.png used on input line 848.
+(pdftex.def)             Requested size: 409.02711pt x 320.69734pt.
+ [128
+
+ <./img/editarcliente.png>]
+<./img/editarcliente1.png, id=2389, 669.50125pt x 252.945pt>
+File: ./img/editarcliente1.png Graphic file (type png)
+
+<use ./img/editarcliente1.png>
+Package pdftex.def Info: ./img/editarcliente1.png used on input line 857.
+(pdftex.def)             Requested size: 334.7498pt x 126.47218pt.
+
+<./img/editarcliente2.png, id=2390, 665.48625pt x 378.41376pt>
+File: ./img/editarcliente2.png Graphic file (type png)
+
+<use ./img/editarcliente2.png>
+Package pdftex.def Info: ./img/editarcliente2.png used on input line 866.
+(pdftex.def)             Requested size: 332.74231pt x 189.2064pt.
+ [129 <./img/editarcliente1.png> <./img/editarcliente2.png>] <./img/borrarclien
+te.png, id=2396, 818.05624pt x 505.89pt>
+File: ./img/borrarcliente.png Graphic file (type png)
+
+<use ./img/borrarcliente.png>
+Package pdftex.def Info: ./img/borrarcliente.png used on input line 875.
+(pdftex.def)             Requested size: 409.02711pt x 252.94437pt.
+
+<./img/borrarcliente1.png, id=2397, 658.46pt x 337.26pt>
+File: ./img/borrarcliente1.png Graphic file (type png)
+
+<use ./img/borrarcliente1.png>
+Package pdftex.def Info: ./img/borrarcliente1.png used on input line 883.
+(pdftex.def)             Requested size: 329.2292pt x 168.62958pt.
+ [130 <./img/borrarcliente.png> <./img/borrarcliente1.png>] <./img/borrarclient
+e2.png, id=2402, 658.46pt x 250.9375pt>
+File: ./img/borrarcliente2.png Graphic file (type png)
+
+<use ./img/borrarcliente2.png>
+Package pdftex.def Info: ./img/borrarcliente2.png used on input line 891.
+(pdftex.def)             Requested size: 329.2292pt x 125.46843pt.
+
+<./img/vercliente.png, id=2403, 597.23125pt x 215.80624pt>
+File: ./img/vercliente.png Graphic file (type png)
+
+<use ./img/vercliente.png>
+Package pdftex.def Info: ./img/vercliente.png used on input line 899.
+(pdftex.def)             Requested size: 298.61488pt x 107.90285pt.
+
+<./img/listarcliente.png, id=2404, 573.14125pt x 287.0725pt>
+File: ./img/listarcliente.png Graphic file (type png)
+
+<use ./img/listarcliente.png>
+Package pdftex.def Info: ./img/listarcliente.png used on input line 907.
+(pdftex.def)             Requested size: 286.56992pt x 143.53589pt.
+ [131
+
+ <./img/borrarcliente2.png> <./img/vercliente.png> <./img/listarcliente.png>]
+<./img/registrarventa.png, id=2410, 1031.855pt x 1172.38pt>
+File: ./img/registrarventa.png Graphic file (type png)
+
+<use ./img/registrarventa.png>
+Package pdftex.def Info: ./img/registrarventa.png used on input line 916.
+(pdftex.def)             Requested size: 515.92624pt x 586.18857pt.
+
+Overfull \hbox (60.68213pt too wide) in paragraph at lines 916--917
+ [][] 
+ []
+
+[132 <./img/registrarventa.png>]
+<./img/registrarventa3.png, id=2415, 725.71124pt x 436.63126pt>
+File: ./img/registrarventa3.png Graphic file (type png)
+
+<use ./img/registrarventa3.png>
+Package pdftex.def Info: ./img/registrarventa3.png used on input line 924.
+(pdftex.def)             Requested size: 362.85474pt x 218.3151pt.
+
+<./img/registrarventa2.png, id=2416, 717.68124pt x 478.78876pt>
+File: ./img/registrarventa2.png Graphic file (type png)
+
+<use ./img/registrarventa2.png>
+Package pdftex.def Info: ./img/registrarventa2.png used on input line 931.
+(pdftex.def)             Requested size: 358.83974pt x 239.39378pt.
+ [133 <./img/registrarventa3.png> <./img/registrarventa2.png>] <./img/registrar
+venta1.png, id=2421, 1031.855pt x 1172.38pt>
+File: ./img/registrarventa1.png Graphic file (type png)
+
+<use ./img/registrarventa1.png>
+Package pdftex.def Info: ./img/registrarventa1.png used on input line 940.
+(pdftex.def)             Requested size: 515.92624pt x 586.18857pt.
+
+Overfull \hbox (60.68213pt too wide) in paragraph at lines 940--941
+ [][] 
+ []
+
+[134 <./img/registrarventa1.png>]
+<./img/listarventa.png, id=2426, 597.23125pt x 244.915pt>
+File: ./img/listarventa.png Graphic file (type png)
+
+<use ./img/listarventa.png>
+Package pdftex.def Info: ./img/listarventa.png used on input line 949.
+(pdftex.def)             Requested size: 298.61488pt x 122.45718pt.
+
+<./img/generarfactura.png, id=2427, 714.67pt x 234.8775pt>
+File: ./img/generarfactura.png Graphic file (type png)
+
+<use ./img/generarfactura.png>
+Package pdftex.def Info: ./img/generarfactura.png used on input line 957.
+(pdftex.def)             Requested size: 357.33412pt x 117.43846pt.
+ [135 <./img/listarventa.png> <./img/generarfactura.png>] <./img/registrardevol
+ucion.png, id=2432, 1200.485pt x 1409.265pt>
+File: ./img/registrardevolucion.png Graphic file (type png)
+
+<use ./img/registrardevolucion.png>
+Package pdftex.def Info: ./img/registrardevolucion.png used on input line 966.
+(pdftex.def)             Requested size: 480.1855pt x 563.69603pt.
+
+Overfull \hbox (24.94139pt too wide) in paragraph at lines 966--967
+ [][] 
+ []
+
+[136 <./img/registrardevolucion.png>]
+<./img/registrardevolucion1.png, id=2437, 1214.5375pt x 1409.265pt>
+File: ./img/registrardevolucion1.png Graphic file (type png)
+
+<use ./img/registrardevolucion1.png>
+Package pdftex.def Info: ./img/registrardevolucion1.png used on input line 975.
+
+(pdftex.def)             Requested size: 485.8064pt x 563.69603pt.
+
+Overfull \hbox (30.56229pt too wide) in paragraph at lines 975--976
+ [][] 
+ []
+
+[137 <./img/registrardevolucion1.png>]
+<./img/registrardevolucion2.png, id=2443, 708.6475pt x 584.1825pt>
+File: ./img/registrardevolucion2.png Graphic file (type png)
+
+<use ./img/registrardevolucion2.png>
+Package pdftex.def Info: ./img/registrardevolucion2.png used on input line 983.
+
+(pdftex.def)             Requested size: 283.45398pt x 233.66885pt.
+
+<./img/registrardevolucion3.png, id=2444, 708.6475pt x 584.1825pt>
+File: ./img/registrardevolucion3.png Graphic file (type png)
+
+<use ./img/registrardevolucion3.png>
+Package pdftex.def Info: ./img/registrardevolucion3.png used on input line 991.
+
+(pdftex.def)             Requested size: 283.45398pt x 233.66885pt.
+ [138
+
+ <./img/registrardevolucion2.png> <./img/registrardevolucion3.png>]
+<./img/listardevolucion.png, id=2449, 678.535pt x 228.855pt>
+File: ./img/listardevolucion.png Graphic file (type png)
+
+<use ./img/listardevolucion.png>
+Package pdftex.def Info: ./img/listardevolucion.png used on input line 1000.
+(pdftex.def)             Requested size: 339.26666pt x 114.42722pt.
+
+<./img/generardocumento.png, id=2450, 792.9625pt x 266.9975pt>
+File: ./img/generardocumento.png Graphic file (type png)
+
+<use ./img/generardocumento.png>
+Package pdftex.def Info: ./img/generardocumento.png used on input line 1008.
+(pdftex.def)             Requested size: 396.48027pt x 133.49841pt.
+
+<./img/verproductosdevueltos.png, id=2451, 994.71625pt x 322.20375pt>
+File: ./img/verproductosdevueltos.png Graphic file (type png)
+
+<use ./img/verproductosdevueltos.png>
+Package pdftex.def Info: ./img/verproductosdevueltos.png used on input line 101
+6.
+(pdftex.def)             Requested size: 497.3569pt x 161.10147pt.
+
+Overfull \hbox (42.1128pt too wide) in paragraph at lines 1016--1017
+ [][] 
+ []
+
+[139 <./img/listardevolucion.png> <./img/generardocumento.png> <./img/verproduc
+tosdevueltos.png>]
+<./img/registrarreserva.png, id=2456, 1020.81375pt x 1171.37625pt>
+File: ./img/registrarreserva.png Graphic file (type png)
+
+<use ./img/registrarreserva.png>
+Package pdftex.def Info: ./img/registrarreserva.png used on input line 1024.
+(pdftex.def)             Requested size: 510.40562pt x 585.68669pt.
+
+Overfull \hbox (55.16151pt too wide) in paragraph at lines 1024--1025
+ [][] 
+ []
+
+[140 <./img/registrarreserva.png>]
+<./img/registrarreserva3.png, id=2461, 1020.81375pt x 1171.37625pt>
+File: ./img/registrarreserva3.png Graphic file (type png)
+
+<use ./img/registrarreserva3.png>
+Package pdftex.def Info: ./img/registrarreserva3.png used on input line 1032.
+(pdftex.def)             Requested size: 510.40562pt x 585.68669pt.
+
+Overfull \hbox (55.16151pt too wide) in paragraph at lines 1032--1033
+ [][] 
+ []
+
+<./img/registrarreserva2.png, id=2462, 818.05624pt x 475.7775pt>
+File: ./img/registrarreserva2.png Graphic file (type png)
+
+<use ./img/registrarreserva2.png>
+Package pdftex.def Info: ./img/registrarreserva2.png used on input line 1039.
+(pdftex.def)             Requested size: 409.02711pt x 237.88815pt.
+ [141 <./img/registrarreserva3.png>]
+<./img/registrarreserva1.png, id=2467, 846.16125pt x 434.62375pt>
+File: ./img/registrarreserva1.png Graphic file (type png)
+
+<use ./img/registrarreserva1.png>
+Package pdftex.def Info: ./img/registrarreserva1.png used on input line 1047.
+(pdftex.def)             Requested size: 423.07959pt x 217.31134pt.
+ [142 <./img/registrarreserva2.png> <./img/registrarreserva1.png>]
+<./img/listarreserva.png, id=2472, 607.26875pt x 235.88126pt>
+File: ./img/listarreserva.png Graphic file (type png)
+
+<use ./img/listarreserva.png>
+Package pdftex.def Info: ./img/listarreserva.png used on input line 1056.
+(pdftex.def)             Requested size: 303.63364pt x 117.94034pt.
+
+<./img/generardocumentoreserva.png, id=2473, 794.97pt x 266.9975pt>
+File: ./img/generardocumentoreserva.png Graphic file (type png)
+
+<use ./img/generardocumentoreserva.png>
+Package pdftex.def Info: ./img/generardocumentoreserva.png used on input line 1
+064.
+(pdftex.def)             Requested size: 397.48402pt x 133.49841pt.
+
+<./img/verproductosreserva.png, id=2474, 962.59625pt x 326.21875pt>
+File: ./img/verproductosreserva.png Graphic file (type png)
+
+<use ./img/verproductosreserva.png>
+Package pdftex.def Info: ./img/verproductosreserva.png used on input line 1072.
+
+(pdftex.def)             Requested size: 481.29695pt x 163.10896pt.
+
+Overfull \hbox (26.05284pt too wide) in paragraph at lines 1072--1073
+ [][] 
+ []
+
+[143 <./img/listarreserva.png> <./img/generardocumentoreserva.png> <./img/verpr
+oductosreserva.png>]
+<./img/registrarcita.png, id=2480, 880.28876pt x 993.7125pt>
+File: ./img/registrarcita.png Graphic file (type png)
+
+<use ./img/registrarcita.png>
+Package pdftex.def Info: ./img/registrarcita.png used on input line 1082.
+(pdftex.def)             Requested size: 396.12628pt x 447.16649pt.
+ [144 <./img/registrarcita.png>]
+<./img/registrarcita1.png, id=2485, 758.835pt x 629.35126pt>
+File: ./img/registrarcita1.png Graphic file (type png)
+
+<use ./img/registrarcita1.png>
+Package pdftex.def Info: ./img/registrarcita1.png used on input line 1091.
+(pdftex.def)             Requested size: 379.41658pt x 314.67485pt.
+ [145 <./img/registrarcita1.png>]
+<./img/registrarcita2.png, id=2490, 758.835pt x 629.35126pt>
+File: ./img/registrarcita2.png Graphic file (type png)
+
+<use ./img/registrarcita2.png>
+Package pdftex.def Info: ./img/registrarcita2.png used on input line 1100.
+(pdftex.def)             Requested size: 379.41658pt x 314.67485pt.
+ [146 <./img/registrarcita2.png>]
+<./img/vercita.png, id=2495, 572.1375pt x 222.8325pt>
+File: ./img/vercita.png Graphic file (type png)
+ <use ./img/vercita.png>
+Package pdftex.def Info: ./img/vercita.png used on input line 1110.
+(pdftex.def)             Requested size: 286.06804pt x 111.41597pt.
+
+<./img/listarcita.png, id=2496, 537.00626pt x 263.98625pt>
+File: ./img/listarcita.png Graphic file (type png)
+
+<use ./img/listarcita.png>
+Package pdftex.def Info: ./img/listarcita.png used on input line 1118.
+(pdftex.def)             Requested size: 268.50247pt x 131.9928pt.
+
+<./img/listarinforme.png, id=2497, 622.325pt x 262.9825pt>
+File: ./img/listarinforme.png Graphic file (type png)
+
+<use ./img/listarinforme.png>
+Package pdftex.def Info: ./img/listarinforme.png used on input line 1126.
+(pdftex.def)             Requested size: 311.16173pt x 131.49092pt.
+ [147 <./img/vercita.png> <./img/listarcita.png> <./img/listarinforme.png>]
+<./img/registrarinformeconcita.png, id=2502, 845.1575pt x 909.3975pt>
+File: ./img/registrarinformeconcita.png Graphic file (type png)
+
+<use ./img/registrarinformeconcita.png>
+Package pdftex.def Info: ./img/registrarinformeconcita.png used on input line 1
+135.
+(pdftex.def)             Requested size: 422.57771pt x 454.69765pt.
+ [148 <./img/registrarinformeconcita.png>] <./img/registrarinformesincita.png, 
+id=2507, 1031.855pt x 1138.2525pt>
+File: ./img/registrarinformesincita.png Graphic file (type png)
+
+<use ./img/registrarinformesincita.png>
+Package pdftex.def Info: ./img/registrarinformesincita.png used on input line 1
+143.
+(pdftex.def)             Requested size: 515.92624pt x 569.12486pt.
+
+Overfull \hbox (60.68213pt too wide) in paragraph at lines 1143--1144
+ [][] 
+ []
+
+[149 <./img/registrarinformesincita.png>]
+<./img/registrarpedido.png, id=2513, 1014.79124pt x 868.24374pt>
+File: ./img/registrarpedido.png Graphic file (type png)
+
+<use ./img/registrarpedido.png>
+Package pdftex.def Info: ./img/registrarpedido.png used on input line 1152.
+(pdftex.def)             Requested size: 507.39438pt x 434.1208pt.
+
+Overfull \hbox (52.15027pt too wide) in paragraph at lines 1152--1153
+ [][] 
+ []
+
+[150 <./img/registrarpedido.png>]
+<./img/registrarpedido2.png, id=2518, 822.07124pt x 564.1075pt>
+File: ./img/registrarpedido2.png Graphic file (type png)
+
+<use ./img/registrarpedido2.png>
+Package pdftex.def Info: ./img/registrarpedido2.png used on input line 1162.
+(pdftex.def)             Requested size: 411.0346pt x 282.05305pt.
+
+<./img/registrarpedido3.png, id=2519, 822.07124pt x 443.6575pt>
+File: ./img/registrarpedido3.png Graphic file (type png)
+
+<use ./img/registrarpedido3.png>
+Package pdftex.def Info: ./img/registrarpedido3.png used on input line 1170.
+(pdftex.def)             Requested size: 411.0346pt x 221.8282pt.
+ [151 <./img/registrarpedido2.png> <./img/registrarpedido3.png>] <./img/listarp
+edido.png, id=2525, 599.23875pt x 229.85875pt>
+File: ./img/listarpedido.png Graphic file (type png)
+
+<use ./img/listarpedido.png>
+Package pdftex.def Info: ./img/listarpedido.png used on input line 1179.
+(pdftex.def)             Requested size: 299.61864pt x 114.92908pt.
+
+<./img/entrarsistema.png, id=2526, 817.0525pt x 586.19pt>
+File: ./img/entrarsistema.png Graphic file (type png)
+
+<use ./img/entrarsistema.png>
+Package pdftex.def Info: ./img/entrarsistema.png used on input line 1187.
+(pdftex.def)             Requested size: 408.52525pt x 293.09428pt.
+ [152 <./img/listarpedido.png> <./img/entrarsistema.png>] <./img/entrarsistema1
+.png, id=2531, 818.05624pt x 508.90125pt>
+File: ./img/entrarsistema1.png Graphic file (type png)
+
+<use ./img/entrarsistema1.png>
+Package pdftex.def Info: ./img/entrarsistema1.png used on input line 1196.
+(pdftex.def)             Requested size: 409.02711pt x 254.45pt.
+
+<./img/entrarsistema2.png, id=2532, 681.54625pt x 326.21875pt>
+File: ./img/entrarsistema2.png Graphic file (type png)
+
+<use ./img/entrarsistema2.png>
+Package pdftex.def Info: ./img/entrarsistema2.png used on input line 1204.
+(pdftex.def)             Requested size: 340.7723pt x 163.10896pt.
+ [153 <./img/entrarsistema1.png> <./img/entrarsistema2.png>] <./img/salidasiste
+ma.png, id=2537, 746.79pt x 318.18875pt>
+File: ./img/salidasistema.png Graphic file (type png)
+
+<use ./img/salidasistema.png>
+Package pdftex.def Info: ./img/salidasistema.png used on input line 1213.
+(pdftex.def)             Requested size: 373.39407pt x 159.09398pt.
+
+<./img/olvidocontrasena.png, id=2538, 648.4225pt x 386.44376pt>
+File: ./img/olvidocontrasena.png Graphic file (type png)
+
+<use ./img/olvidocontrasena.png>
+Package pdftex.def Info: ./img/olvidocontrasena.png used on input line 1221.
+(pdftex.def)             Requested size: 324.21045pt x 193.2214pt.
+ [154 <./img/salidasistema.png> <./img/olvidocontrasena.png>]
+<./img/olvidocontrasena1.png, id=2543, 648.4225pt x 304.13625pt>
+File: ./img/olvidocontrasena1.png Graphic file (type png)
+
+<use ./img/olvidocontrasena1.png>
+Package pdftex.def Info: ./img/olvidocontrasena1.png used on input line 1230.
+(pdftex.def)             Requested size: 324.21045pt x 152.06775pt.
+
+<./img/generarcontrasena.png, id=2544, 648.4225pt x 386.44376pt>
+File: ./img/generarcontrasena.png Graphic file (type png)
+
+<use ./img/generarcontrasena.png>
+Package pdftex.def Info: ./img/generarcontrasena.png used on input line 1238.
+(pdftex.def)             Requested size: 324.21045pt x 193.2214pt.
+ [155 <./img/olvidocontrasena1.png> <./img/generarcontrasena.png>]
+<./img/generarcontrasena1.png, id=2550, 648.4225pt x 304.13625pt>
+File: ./img/generarcontrasena1.png Graphic file (type png)
+
+<use ./img/generarcontrasena1.png>
+Package pdftex.def Info: ./img/generarcontrasena1.png used on input line 1247.
+(pdftex.def)             Requested size: 324.21045pt x 152.06775pt.
+
+<./img/estadistica.png, id=2551, 549.05125pt x 318.18875pt>
+File: ./img/estadistica.png Graphic file (type png)
+
+<use ./img/estadistica.png>
+Package pdftex.def Info: ./img/estadistica.png used on input line 1255.
+(pdftex.def)             Requested size: 274.52495pt x 159.09398pt.
+ [156
+
+ <./img/generarcontrasena1.png> <./img/estadistica.png>] <./img/estadisticaempl
+eado.png, id=2556, 582.175pt x 318.18875pt>
+File: ./img/estadisticaempleado.png Graphic file (type png)
+
+<use ./img/estadisticaempleado.png>
+Package pdftex.def Info: ./img/estadisticaempleado.png used on input line 1264.
+
+(pdftex.def)             Requested size: 291.08679pt x 159.09398pt.
+
+<./img/registrarpermiso.png, id=2557, 868.24374pt x 590.205pt>
+File: ./img/registrarpermiso.png Graphic file (type png)
+
+<use ./img/registrarpermiso.png>
+Package pdftex.def Info: ./img/registrarpermiso.png used on input line 1272.
+(pdftex.def)             Requested size: 434.1208pt x 295.10178pt.
+ [157 <./img/estadisticaempleado.png> <./img/registrarpermiso.png>]
+<./img/registrarpermiso1.png, id=2562, 657.45625pt x 444.66125pt>
+File: ./img/registrarpermiso1.png Graphic file (type png)
+
+<use ./img/registrarpermiso1.png>
+Package pdftex.def Info: ./img/registrarpermiso1.png used on input line 1281.
+(pdftex.def)             Requested size: 328.72733pt x 222.33008pt.
+
+<./img/borrarpermiso1.png, id=2563, 657.45625pt x 405.515pt>
+File: ./img/borrarpermiso1.png Graphic file (type png)
+
+<use ./img/borrarpermiso1.png>
+Package pdftex.def Info: ./img/borrarpermiso1.png used on input line 1289.
+(pdftex.def)             Requested size: 328.72733pt x 202.75699pt.
+ [158 <./img/registrarpermiso1.png> <./img/borrarpermiso1.png>]
+File: ./img/borrarpermiso1.png Graphic file (type png)
+ <use ./img/borrarpermiso1.png>
+Package pdftex.def Info: ./img/borrarpermiso1.png used on input line 1298.
+(pdftex.def)             Requested size: 328.72733pt x 202.75699pt.
+
+<./img/registararqueo.png, id=2568, 927.465pt x 490.83376pt>
+File: ./img/registararqueo.png Graphic file (type png)
+
+<use ./img/registararqueo.png>
+Package pdftex.def Info: ./img/registararqueo.png used on input line 1306.
+(pdftex.def)             Requested size: 463.73137pt x 245.41628pt.
+
+Overfull \hbox (8.48726pt too wide) in paragraph at lines 1306--1307
+ [][] 
+ []
+
+[159 <./img/registararqueo.png>]
+<./img/registararqueo1.png, id=2573, 682.55pt x 293.095pt>
+File: ./img/registararqueo1.png Graphic file (type png)
+
+<use ./img/registararqueo1.png>
+Package pdftex.def Info: ./img/registararqueo1.png used on input line 1316.
+(pdftex.def)             Requested size: 341.27417pt x 146.54713pt.
+
+<./img/registararqueo2.png, id=2574, 682.55pt x 214.8025pt>
+File: ./img/registararqueo2.png Graphic file (type png)
+
+<use ./img/registararqueo2.png>
+Package pdftex.def Info: ./img/registararqueo2.png used on input line 1324.
+(pdftex.def)             Requested size: 341.27417pt x 107.40099pt.
+
+<./img/registrarfestivo.png, id=2575, 706.64pt x 340.27126pt>
+File: ./img/registrarfestivo.png Graphic file (type png)
+
+<use ./img/registrarfestivo.png>
+Package pdftex.def Info: ./img/registrarfestivo.png used on input line 1332.
+(pdftex.def)             Requested size: 353.31914pt x 170.13521pt.
+ [160 <./img/registararqueo1.png> <./img/registararqueo2.png> <./img/registrarf
+estivo.png>]
+<./img/registrarfestivo1.png, id=2580, 706.64pt x 340.27126pt>
+File: ./img/registrarfestivo1.png Graphic file (type png)
+
+<use ./img/registrarfestivo1.png>
+Package pdftex.def Info: ./img/registrarfestivo1.png used on input line 1341.
+(pdftex.def)             Requested size: 353.31914pt x 170.13521pt.
+
+<./img/verfestivo.png, id=2581, 599.23875pt x 215.80624pt>
+File: ./img/verfestivo.png Graphic file (type png)
+
+<use ./img/verfestivo.png>
+Package pdftex.def Info: ./img/verfestivo.png used on input line 1349.
+(pdftex.def)             Requested size: 299.61864pt x 107.90285pt.
+
+<./img/borrarfestivo.png, id=2582, 706.64pt x 276.03125pt>
+File: ./img/borrarfestivo.png Graphic file (type png)
+
+<use ./img/borrarfestivo.png>
+Package pdftex.def Info: ./img/borrarfestivo.png used on input line 1357.
+(pdftex.def)             Requested size: 353.31914pt x 138.01527pt.
+) [161 <./img/registrarfestivo1.png> <./img/verfestivo.png> <./img/borrarfestiv
+o.png>] [162
+
+]
+Cap\'{\i }tulo 5.
+(./contenido/implementacion.tex
+Package acronym Info: Label `acro:HTML' newly defined as it shall be overridden
+
+although it is yet undefined on input line 15.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+Package acronym Info: Label `acro:CSS' newly defined as it shall be overridden
+although it is yet undefined on input line 21.
+Package acronym Info: Label `acro:JQuery' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 23.
+Package acronym Info: Label `acro:JavaScript' newly defined as it shall be over
+ridden
+although it is yet undefined on input line 23.
+Package acronym Info: Label `acro:AJAX' newly defined as it shall be overridden
+
+although it is yet undefined on input line 23.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+[163]
+Package acronym Info: Label `acro:SSH' newly defined as it shall be overridden
+although it is yet undefined on input line 29.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+[164]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+[165]) [166]
+Cap\'{\i }tulo 6.
+(./contenido/pruebas.tex
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+[167
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+[168] <./img/browserstack.png, id=2625, 1002.74625pt x 411.5375pt>
+File: ./img/browserstack.png Graphic file (type png)
+
+<use ./img/browserstack.png>
+Package pdftex.def Info: ./img/browserstack.png used on input line 67.
+(pdftex.def)             Requested size: 451.23164pt x 185.19016pt.
+ <./img/ren.png, id=2632, 722.7pt x 274.02374pt>
+File: ./img/ren.png Graphic file (type png)
+
+<use ./img/ren.png>
+Package pdftex.def Info: ./img/ren.png used on input line 86.
+(pdftex.def)             Requested size: 361.3491pt x 137.01154pt.
+ <./img/ren1.png, id=2633, 626.34pt x 231.86626pt>
+File: ./img/ren1.png Graphic file (type png)
+
+<use ./img/ren1.png>
+Package pdftex.def Info: ./img/ren1.png used on input line 95.
+(pdftex.def)             Requested size: 281.85039pt x 104.33884pt.
+ [169 <./img/browserstack.png>]
+<./img/ren2.png, id=2643, 665.48625pt x 229.85875pt>
+File: ./img/ren2.png Graphic file (type png)
+ <use ./img/ren2.png>
+Package pdftex.def Info: ./img/ren2.png used on input line 103.
+(pdftex.def)             Requested size: 299.46603pt x 103.43547pt.
+
+<./img/ren3.png, id=2644, 632.3625pt x 226.8475pt>
+File: ./img/ren3.png Graphic file (type png)
+ <use ./img/ren3.png>
+Package pdftex.def Info: ./img/ren3.png used on input line 110.
+(pdftex.def)             Requested size: 284.5605pt x 102.08043pt.
+
+[170 <./img/ren.png> <./img/ren1.png> <./img/ren2.png> <./img/ren3.png>]
+<./img/renotro.png, id=2651, 611.28375pt x 208.78pt>
+File: ./img/renotro.png Graphic file (type png)
+ <use ./img/renotro.png>
+Package pdftex.def Info: ./img/renotro.png used on input line 121.
+(pdftex.def)             Requested size: 275.07515pt x 93.95012pt.
+)
+[171 <./img/renotro.png>] [172
+
+]
+Cap\'{\i }tulo 7.
+(./contenido/manual_usuario.tex
+<./img/caplogin.png, id=2661, 1294.8375pt x 639.38875pt>
+File: ./img/caplogin.png Graphic file (type png)
+
+<use ./img/caplogin.png>
+Package pdftex.def Info: ./img/caplogin.png used on input line 20.
+(pdftex.def)             Requested size: 453.1999pt x 223.78941pt.
+ [173 <./img/caplogin.png>]
+<./img/capolvidada.png, id=2667, 1265.72874pt x 632.3625pt>
+File: ./img/capolvidada.png Graphic file (type png)
+
+<use ./img/capolvidada.png>
+Package pdftex.def Info: ./img/capolvidada.png used on input line 35.
+(pdftex.def)             Requested size: 443.0117pt x 221.33018pt.
+ [174 <./img/capolvidada.png>]
+<./img/capprincipal.png, id=2672, 1263.72125pt x 552.0625pt>
+File: ./img/capprincipal.png Graphic file (type png)
+
+<use ./img/capprincipal.png>
+Package pdftex.def Info: ./img/capprincipal.png used on input line 47.
+(pdftex.def)             Requested size: 442.30907pt x 193.22476pt.
+
+<./img/capregistrocliente.png, id=2673, 1264.725pt x 635.37375pt>
+File: ./img/capregistrocliente.png Graphic file (type png)
+
+<use ./img/capregistrocliente.png>
+Package pdftex.def Info: ./img/capregistrocliente.png used on input line 58.
+(pdftex.def)             Requested size: 442.66039pt x 222.38414pt.
+ [175 <./img/capprincipal.png> <./img/capregistrocliente.png>]
+<./img/caplistarclientes.png, id=2678, 1264.725pt x 671.50874pt>
+File: ./img/caplistarclientes.png Graphic file (type png)
+
+<use ./img/caplistarclientes.png>
+Package pdftex.def Info: ./img/caplistarclientes.png used on input line 69.
+(pdftex.def)             Requested size: 442.66039pt x 235.03159pt.
+ [176 <./img/caplistarclientes.png>]
+<./img/capmodificarcliente.png, id=2683, 1262.7175pt x 637.38126pt>
+File: ./img/capmodificarcliente.png Graphic file (type png)
+
+<use ./img/capmodificarcliente.png>
+Package pdftex.def Info: ./img/capmodificarcliente.png used on input line 81.
+(pdftex.def)             Requested size: 441.95775pt x 223.08678pt.
+ [177 <./img/capmodificarcliente.png>]
+<./img/capmoverproductos.png, id=2688, 1264.725pt x 665.48625pt>
+File: ./img/capmoverproductos.png Graphic file (type png)
+
+<use ./img/capmoverproductos.png>
+Package pdftex.def Info: ./img/capmoverproductos.png used on input line 93.
+(pdftex.def)             Requested size: 442.66039pt x 232.92368pt.
+
+<./img/capregistroproducto.png, id=2689, 1262.7175pt x 603.25375pt>
+File: ./img/capregistroproducto.png Graphic file (type png)
+
+<use ./img/capregistroproducto.png>
+Package pdftex.def Info: ./img/capregistroproducto.png used on input line 104.
+(pdftex.def)             Requested size: 441.95775pt x 211.14197pt.
+ [178 <./img/capmoverproductos.png> <./img/capregistroproducto.png>]
+<./img/capmodificarproducto.png, id=2694, 1260.71pt x 603.25375pt>
+File: ./img/capmodificarproducto.png Graphic file (type png)
+
+<use ./img/capmodificarproducto.png>
+Package pdftex.def Info: ./img/capmodificarproducto.png used on input line 116.
+
+(pdftex.def)             Requested size: 441.25511pt x 211.14197pt.
+ [179 <./img/capmodificarproducto.png>]
+<./img/caplistarproductos.png, id=2700, 1261.71375pt x 681.54625pt>
+File: ./img/caplistarproductos.png Graphic file (type png)
+
+<use ./img/caplistarproductos.png>
+Package pdftex.def Info: ./img/caplistarproductos.png used on input line 127.
+(pdftex.def)             Requested size: 441.60643pt x 238.54475pt.
+ [180 <./img/caplistarproductos.png>]
+<./img/caplistarfamilias.png, id=2705, 1262.7175pt x 582.175pt>
+File: ./img/caplistarfamilias.png Graphic file (type png)
+
+<use ./img/caplistarfamilias.png>
+Package pdftex.def Info: ./img/caplistarfamilias.png used on input line 139.
+(pdftex.def)             Requested size: 441.95775pt x 203.7643pt.
+ [181 <./img/caplistarfamilias.png>]
+<./img/capnuevaventa.png, id=2710, 1293.83376pt x 867.24pt>
+File: ./img/capnuevaventa.png Graphic file (type png)
+
+<use ./img/capnuevaventa.png>
+Package pdftex.def Info: ./img/capnuevaventa.png used on input line 151.
+(pdftex.def)             Requested size: 452.8486pt x 303.53854pt.
+
+<./img/capnuevaventa1.png, id=2711, 1292.83pt x 213.79875pt>
+File: ./img/capnuevaventa1.png Graphic file (type png)
+
+<use ./img/capnuevaventa1.png>
+Package pdftex.def Info: ./img/capnuevaventa1.png used on input line 158.
+(pdftex.def)             Requested size: 452.49728pt x 74.83067pt.
+
+<./img/capnuevaventa2.png, id=2712, 307.1475pt x 212.795pt>
+File: ./img/capnuevaventa2.png Graphic file (type png)
+
+<use ./img/capnuevaventa2.png>
+Package pdftex.def Info: ./img/capnuevaventa2.png used on input line 165.
+(pdftex.def)             Requested size: 107.50323pt x 74.47935pt.
+ [182 <./img/capnuevaventa.png> <./img/capnuevaventa1.png> <./img/capnuevaventa
+2.png>]
+<./img/caplistarventas.png, id=2717, 1289.81876pt x 633.36626pt>
+File: ./img/caplistarventas.png Graphic file (type png)
+
+<use ./img/caplistarventas.png>
+Package pdftex.def Info: ./img/caplistarventas.png used on input line 176.
+(pdftex.def)             Requested size: 451.44333pt x 221.6815pt.
+ [183 <./img/caplistarventas.png>]
+<./img/capnuevadevolucion.png, id=2722, 1291.82625pt x 549.05125pt>
+File: ./img/capnuevadevolucion.png Graphic file (type png)
+
+<use ./img/capnuevadevolucion.png>
+Package pdftex.def Info: ./img/capnuevadevolucion.png used on input line 188.
+(pdftex.def)             Requested size: 452.14597pt x 192.1708pt.
+
+<./img/capnuevadevolucion1.png, id=2723, 1291.82625pt x 570.13pt>
+File: ./img/capnuevadevolucion1.png Graphic file (type png)
+
+<use ./img/capnuevadevolucion1.png>
+Package pdftex.def Info: ./img/capnuevadevolucion1.png used on input line 195.
+(pdftex.def)             Requested size: 452.14597pt x 199.5485pt.
+ [184 <./img/capnuevadevolucion.png> <./img/capnuevadevolucion1.png>]
+<./img/caplistarreservas.png, id=2728, 1294.8375pt x 520.94624pt>
+File: ./img/caplistarreservas.png Graphic file (type png)
+
+<use ./img/caplistarreservas.png>
+Package pdftex.def Info: ./img/caplistarreservas.png used on input line 207.
+(pdftex.def)             Requested size: 453.1999pt x 182.33391pt.
+ [185 <./img/caplistarreservas.png>]
+<./img/caplistaroperaciones.png, id=2735, 1289.81876pt x 660.4675pt>
+File: ./img/caplistaroperaciones.png Graphic file (type png)
+
+<use ./img/caplistaroperaciones.png>
+Package pdftex.def Info: ./img/caplistaroperaciones.png used on input line 219.
+
+(pdftex.def)             Requested size: 451.44333pt x 231.16708pt.
+ [186 <./img/caplistaroperaciones.png>]
+<./img/capnuevopedido.png, id=2740, 1291.82625pt x 664.4825pt>
+File: ./img/capnuevopedido.png Graphic file (type png)
+
+<use ./img/capnuevopedido.png>
+Package pdftex.def Info: ./img/capnuevopedido.png used on input line 231.
+(pdftex.def)             Requested size: 452.14597pt x 232.57236pt.
+ [187 <./img/capnuevopedido.png>]
+<./img/capnuevopedido1.png, id=2745, 1291.82625pt x 858.20625pt>
+File: ./img/capnuevopedido1.png Graphic file (type png)
+
+<use ./img/capnuevopedido1.png>
+Package pdftex.def Info: ./img/capnuevopedido1.png used on input line 241.
+(pdftex.def)             Requested size: 452.14597pt x 300.3767pt.
+ [188 <./img/capnuevopedido1.png>]
+<./img/caplistarpedidos.png, id=2750, 1290.8225pt x 484.81125pt>
+File: ./img/caplistarpedidos.png Graphic file (type png)
+
+<use ./img/caplistarpedidos.png>
+Package pdftex.def Info: ./img/caplistarpedidos.png used on input line 253.
+(pdftex.def)             Requested size: 451.79465pt x 169.68648pt.
+
+<./img/capcitas.png, id=2751, 1297.84875pt x 601.24625pt>
+File: ./img/capcitas.png Graphic file (type png)
+
+<use ./img/capcitas.png>
+Package pdftex.def Info: ./img/capcitas.png used on input line 264.
+(pdftex.def)             Requested size: 454.25388pt x 210.43933pt.
+ [189 <./img/caplistarpedidos.png> <./img/capcitas.png>] <./img/capcitas1.png, 
+id=2756, 912.40875pt x 667.49374pt>
+File: ./img/capcitas1.png Graphic file (type png)
+
+<use ./img/capcitas1.png>
+Package pdftex.def Info: ./img/capcitas1.png used on input line 273.
+(pdftex.def)             Requested size: 319.34784pt x 233.62631pt.
+ [190 <./img/capcitas1.png>]
+<./img/capregistrarinforme.png, id=2761, 1308.89pt x 873.2625pt>
+File: ./img/capregistrarinforme.png Graphic file (type png)
+
+<use ./img/capregistrarinforme.png>
+Package pdftex.def Info: ./img/capregistrarinforme.png used on input line 284.
+(pdftex.def)             Requested size: 458.11836pt x 305.64645pt.
+
+Overfull \hbox (2.87425pt too wide) in paragraph at lines 284--285
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--292
+
+ []
+
+[191 <./img/capregistrarinforme.png>]
+<./img/capnuevoarqueo.png, id=2767, 1308.89pt x 638.385pt>
+File: ./img/capnuevoarqueo.png Graphic file (type png)
+
+<use ./img/capnuevoarqueo.png>
+Package pdftex.def Info: ./img/capnuevoarqueo.png used on input line 300.
+(pdftex.def)             Requested size: 458.11836pt x 223.43808pt.
+
+Overfull \hbox (2.87425pt too wide) in paragraph at lines 300--301
+ [][] 
+ []
+
+[192 <./img/capnuevoarqueo.png>]
+<./img/capestadisticasemp.png, id=2772, 1297.84875pt x 686.565pt>
+File: ./img/capestadisticasemp.png Graphic file (type png)
+
+<use ./img/capestadisticasemp.png>
+Package pdftex.def Info: ./img/capestadisticasemp.png used on input line 312.
+(pdftex.def)             Requested size: 454.25388pt x 240.30135pt.
+ [193 <./img/capestadisticasemp.png>]
+<./img/capmodificarempleado.png, id=2777, 1288.815pt x 797.98125pt>
+File: ./img/capmodificarempleado.png Graphic file (type png)
+
+<use ./img/capmodificarempleado.png>
+Package pdftex.def Info: ./img/capmodificarempleado.png used on input line 324.
+
+(pdftex.def)             Requested size: 451.09201pt x 279.29762pt.
+ [194 <./img/capmodificarempleado.png>]
+<./img/capregistroemp.png, id=2782, 1293.83376pt x 718.685pt>
+File: ./img/capregistroemp.png Graphic file (type png)
+
+<use ./img/capregistroemp.png>
+Package pdftex.def Info: ./img/capregistroemp.png used on input line 336.
+(pdftex.def)             Requested size: 452.8486pt x 251.54352pt.
+ [195 <./img/capregistroemp.png>]
+<./img/caplistarempleados.png, id=2787, 1293.83376pt x 555.07375pt>
+File: ./img/caplistarempleados.png Graphic file (type png)
+
+<use ./img/caplistarempleados.png>
+Package pdftex.def Info: ./img/caplistarempleados.png used on input line 348.
+(pdftex.def)             Requested size: 452.8486pt x 194.27872pt.
+
+<./img/capconexiones.png, id=2788, 1291.82625pt x 578.16pt>
+File: ./img/capconexiones.png Graphic file (type png)
+
+<use ./img/capconexiones.png>
+Package pdftex.def Info: ./img/capconexiones.png used on input line 359.
+(pdftex.def)             Requested size: 452.14597pt x 202.35902pt.
+ [196 <./img/caplistarempleados.png> <./img/capconexiones.png>] <./img/capcambi
+os.png, id=2793, 1290.8225pt x 750.805pt>
+File: ./img/capcambios.png Graphic file (type png)
+
+<use ./img/capcambios.png>
+Package pdftex.def Info: ./img/capcambios.png used on input line 371.
+(pdftex.def)             Requested size: 451.79465pt x 262.78568pt.
+ [197 <./img/capcambios.png>]
+<./img/capcalendarioarqueos.png, id=2799, 1309.89375pt x 777.90625pt>
+File: ./img/capcalendarioarqueos.png Graphic file (type png)
+
+<use ./img/capcalendarioarqueos.png>
+Package pdftex.def Info: ./img/capcalendarioarqueos.png used on input line 383.
+
+(pdftex.def)             Requested size: 458.4697pt x 272.27126pt.
+
+Overfull \hbox (3.22559pt too wide) in paragraph at lines 383--384
+ [][] 
+ []
+
+[198 <./img/capcalendarioarqueos.png>]
+<./img/capfestivos.png, id=2804, 1290.8225pt x 727.71875pt>
+File: ./img/capfestivos.png Graphic file (type png)
+
+<use ./img/capfestivos.png>
+Package pdftex.def Info: ./img/capfestivos.png used on input line 396.
+(pdftex.def)             Requested size: 451.79465pt x 254.70537pt.
+ [199 <./img/capfestivos.png>]
+<./img/cappermisos.png, id=2809, 1293.83376pt x 864.22874pt>
+File: ./img/cappermisos.png Graphic file (type png)
+
+<use ./img/cappermisos.png>
+Package pdftex.def Info: ./img/cappermisos.png used on input line 408.
+(pdftex.def)             Requested size: 452.8486pt x 302.48459pt.
+ [200 <./img/cappermisos.png>]
+<./img/capestadisticas.png, id=2814, 1310.8975pt x 686.565pt>
+File: ./img/capestadisticas.png Graphic file (type png)
+
+<use ./img/capestadisticas.png>
+Package pdftex.def Info: ./img/capestadisticas.png used on input line 424.
+(pdftex.def)             Requested size: 458.821pt x 240.30135pt.
+
+Overfull \hbox (3.57689pt too wide) in paragraph at lines 424--425
+ [][] 
+ []
+
+<./img/capestadisticas1.png, id=2815, 1313.90875pt x 689.57625pt>
+File: ./img/capestadisticas1.png Graphic file (type png)
+
+<use ./img/capestadisticas1.png>
+Package pdftex.def Info: ./img/capestadisticas1.png used on input line 431.
+(pdftex.def)             Requested size: 459.87495pt x 241.3553pt.
+
+Overfull \hbox (4.63084pt too wide) in paragraph at lines 431--432
+ [][] 
+ []
+
+[201 <./img/capestadisticas.png> <./img/capestadisticas1.png>]
+<./img/capestadisticas2.png, id=2820, 1307.88625pt x 686.565pt>
+File: ./img/capestadisticas2.png Graphic file (type png)
+
+<use ./img/capestadisticas2.png>
+Package pdftex.def Info: ./img/capestadisticas2.png used on input line 439.
+(pdftex.def)             Requested size: 457.76704pt x 240.30135pt.
+
+Overfull \hbox (2.52293pt too wide) in paragraph at lines 439--440
+ [][] 
+ []
+
+<./img/capestadisticas3.png, id=2821, 1310.8975pt x 684.5575pt>
+File: ./img/capestadisticas3.png Graphic file (type png)
+
+<use ./img/capestadisticas3.png>
+Package pdftex.def Info: ./img/capestadisticas3.png used on input line 446.
+(pdftex.def)             Requested size: 458.821pt x 239.59871pt.
+
+Overfull \hbox (3.57689pt too wide) in paragraph at lines 446--447
+ [][] 
+ []
+
+) [202 <./img/capestadisticas2.png> <./img/capestadisticas3.png>]
+Cap\'{\i }tulo 8.
+(./contenido/manual_instexp.tex [203
+
+]) [204]
+Cap\'{\i }tulo 9.
+(./contenido/conclusiones.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+[205
+
+]) (./memoria.bbl [206] [207
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 87--90
+\T1/cmr/m/n/10.95 Accesible des-de [][]$\T1/cmtt/m/n/10.95 http : / / es . wiki
+pedia . org / wiki / Proceso _ Unificado _ de _ Rational$[][]\T1/cmr/m/n/10.95 
+,
+ []
+
+) [208] (./contenido/bibliografia.tex) (./anexos/fdl-1.3.tex [209
+
+
+] [210
+
+]
+[211] [212] [213] [214] [215] [216] [217])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 127.
+ [218]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 127.
+ (./memoria.aux
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 127.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 127.
+Package rerunfilecheck Info: File `memoria.out' has not changed.
+(rerunfilecheck)             Checksum: 2BFD448ABADA59E72473AD9188F205F4;8957.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 127.
+ ) 
+Here is how much of TeX's memory you used:
+ 19094 strings out of 493488
+ 324072 string characters out of 3141326
+ 449884 words of memory out of 3000000
+ 20619 multiletter control sequences out of 15000+200000
+ 25428 words of font info for 62 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 63i,14n,57p,1125b,644s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfbi1440.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr
+/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/l
+ocal/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/loc
+al/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local
+/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/t
+exlive/2012/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/tex
+live/2012/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texli
+ve/2012/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive
+/2012/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2
+012/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/201
+2/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2012/
+texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2012/te
+xmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2012/texm
+f-dist/fonts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2012/texmf-
+dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2012/texmf-di
+st/fonts/type1/public/cm-super/sftt0900.pfb></usr/local/texlive/2012/texmf-dist
+/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on memoria.pdf (238 pages, 7992917 bytes).
+PDF statistics:
+ 3253 PDF objects out of 3580 (max. 8388607)
+ 2774 compressed objects within 28 object streams
+ 1168 named destinations out of 1200 (max. 500000)
+ 1889 words of extra memory for PDF output out of 10000 (max. 10000000)
+

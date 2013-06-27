@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.20pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{3}{0}{1}
+\beamer@sectionintoc {2}{Desarrollo del proyecto}{14}{0}{2}
+\beamer@sectionintoc {3}{Conclusiones}{51}{0}{3}
+\beamer@sectionintoc {4}{Posibles mejoras}{60}{0}{4}
