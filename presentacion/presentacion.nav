@@ -8,8 +8,8 @@
 \headcommand {\beamer@subsectionpages {1}{2}}
 \headcommand {\slideentry {1}{0}{3}{3/3}{}{0}}
 \headcommand {\beamer@framepages {3}{3}}
-\headcommand {\beamer@subsectionentry {0}{1}{1}{4}{Empresa Salud visi\IeC {\'o}n}}\headcommand {\beamer@subsectionpages {3}{3}}
-\headcommand {\slideentry {1}{1}{1}{4/4}{Empresa Salud visi\IeC {\'o}n}{0}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{4}{Origen}}\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\slideentry {1}{1}{1}{4/4}{Origen}{0}}
 \headcommand {\beamer@framepages {4}{4}}
 \headcommand {\beamer@subsectionentry {0}{1}{2}{5}{Localizaci\IeC {\'o}n Salud Visi\IeC {\'o}n}}\headcommand {\beamer@subsectionpages {4}{4}}
 \headcommand {\slideentry {1}{2}{1}{5/5}{Localizaci\IeC {\'o}n Salud Visi\IeC {\'o}n}{0}}
@@ -67,22 +67,20 @@
 \headcommand {\beamer@framepages {41}{41}}
 \headcommand {\slideentry {2}{4}{11}{42/42}{Implementaci\IeC {\'o}n}{0}}
 \headcommand {\beamer@framepages {42}{42}}
-\headcommand {\slideentry {2}{4}{12}{43/43}{Implementaci\IeC {\'o}n}{0}}
-\headcommand {\beamer@framepages {43}{43}}
-\headcommand {\beamer@subsectionentry {0}{2}{5}{44}{Pruebas}}\headcommand {\beamer@subsectionpages {32}{43}}
-\headcommand {\slideentry {2}{5}{1}{44/45}{Pruebas}{0}}
-\headcommand {\beamer@framepages {44}{45}}
-\headcommand {\slideentry {2}{5}{2}{46/47}{Pruebas}{0}}
-\headcommand {\beamer@framepages {46}{47}}
-\headcommand {\slideentry {2}{5}{3}{48/48}{Pruebas}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{5}{43}{Pruebas}}\headcommand {\beamer@subsectionpages {32}{42}}
+\headcommand {\slideentry {2}{5}{1}{43/44}{Pruebas}{0}}
+\headcommand {\beamer@framepages {43}{44}}
+\headcommand {\slideentry {2}{5}{2}{45/46}{Pruebas}{0}}
+\headcommand {\beamer@framepages {45}{46}}
+\headcommand {\slideentry {2}{5}{3}{47/47}{Pruebas}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\slideentry {2}{5}{4}{48/48}{Pruebas}{0}}
 \headcommand {\beamer@framepages {48}{48}}
-\headcommand {\slideentry {2}{5}{4}{49/49}{Pruebas}{0}}
-\headcommand {\beamer@framepages {49}{49}}
-\headcommand {\slideentry {2}{5}{5}{50/50}{Pruebas}{0}}
-\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\slideentry {2}{5}{5}{49/50}{Pruebas}{0}}
+\headcommand {\beamer@framepages {49}{50}}
 \headcommand {\sectionentry {3}{Conclusiones}{51}{Conclusiones}{0}}
 \headcommand {\beamer@sectionpages {14}{50}}
-\headcommand {\beamer@subsectionpages {44}{50}}
+\headcommand {\beamer@subsectionpages {43}{50}}
 \headcommand {\slideentry {3}{0}{6}{51/51}{}{0}}
 \headcommand {\beamer@framepages {51}{51}}
 \headcommand {\beamer@subsectionentry {0}{3}{1}{52}{Objetivos}}\headcommand {\beamer@subsectionpages {51}{51}}
@@ -107,4 +105,4 @@
 \headcommand {\beamer@subsectionpages {61}{61}}
 \headcommand {\beamer@sectionpages {61}{61}}
 \headcommand {\beamer@documentpages {61}}
-\headcommand {\def \inserttotalframenumber {38}}
+\headcommand {\def \inserttotalframenumber {37}}

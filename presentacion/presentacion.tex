@@ -71,10 +71,11 @@
 \section{Introducción}
 \frame{\tableofcontents[currentsection]}
 
-\subsection*{Empresa Salud visión}
+\subsection*{Origen}
 \frame{\frametitle{Salud visión}
+El proyecto surge por:
 \begin{itemize}
-\item Petición por parte del gerente de Salud Visión S.L. construir un sistema de gestión.
+\item Petición del gerente de Salud Visión construir un sistema de gestión.
 \item Interés personal por el desarrollo de un software de gestión.
 \item Interés personal por programación web.
 \end{itemize}
@@ -85,7 +86,7 @@
 
 \subsection*{Localización Salud Visión}
 \frame{\frametitle{Localización}
-Salud Visión S.L.
+Salud Visión Ópticos
   \begin{figure}
  	\includegraphics[scale=0.23]{capcalle2}\hspace{5mm}
 	\includegraphics[scale=0.25]{mapa}
@@ -177,10 +178,10 @@ Se realizó la planificación de los tiempos de las tareas pero no se cumplieron
 \item Control de acceso y roles de los usuarios.\pause
 \item Organización de los productos agrupados por familias.\pause
 \item Creación de documentos e informes con el logotipo.\pause
+\item Control de los clientes.\pause
 \item Control de los proveedores del sistema.\pause
 \item Control de las citas que se generen.\pause
 \item Control de los pedidos, ventas, devoluciones, reservas y apartados que generen los usuarios.\pause
-\item Control de los informes que se generen.\pause
 \item Control de los cambios realizados en el sistema.\pause
 \item Control de los arqueos realizados en el sistema.\pause
 \item Control de los permisos disfrutados por los usuarios.
@@ -263,47 +264,53 @@ lógica de control y lógica de negocio.
 
 }
 
-\frame{\frametitle{Frameworks utilizados}
+\frame{\frametitle{Framework Symfony2}
 
   \begin{figure}[]
 \includegraphics[scale=0.4]{symfony2}
 \end{figure}
-  Symfony2 es un framework de PHP rápido, flexible y fácil de aprender que nos permite a los desarrolladores construir aplicaciones webs más mantenibles.
-
-  \begin{figure}[]
- \includegraphics[scale=0.1]{jquery}
-\end{figure}
-  jQuery es un framework de JavaScript, que permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos, desarrollar animaciones (FLV) y agregar interacción con la técnica AJAX a páginas web.
-
+  Symfony2 es un framework de PHP rápido, flexible y fácil de aprender.
+ \begin{block}{Características Symfony2}
+\begin{columns}[c]
+\column{0.5 \textwidth}
+  \begin{itemize}
+\item \textbf{Versátil.}
+\item \textbf{Seguridad.} 
+\item \textbf{Flexible.} 
+\item \textbf{Rendimiento.}
+\end{itemize}
+\column{0.5 \textwidth}
+  \begin{itemize}
+\item \textbf{Soporte.} 
+\item \textbf{Documentación.} 
+\item \textbf{Comunidad.} 
+\item \textbf{Popular.}
+\end{itemize}
+\end{columns}
+  \end{block}
 }
 
-\begin{frame}{Descripción de los frameworks}
- \begin{block}{Características Symfony2}
-  \begin{itemize}
-\item \textbf{Versátil}
-\item \textbf{Seguridad} 
-\item \textbf{Flexible} 
-\item \textbf{Rendimiento} 
-\item \textbf{Soporte} 
-\item \textbf{Documentación} 
-\item \textbf{Comunidad} 
-\item \textbf{Popular}
-\end{itemize}
-  \end{block}
-\end{frame}
-
-\begin{frame}{Descripción de los frameworks}
- \begin{block}{Caracteristicas jQuery}
-  \begin{itemize}
-\item Selección, interactividad y modificaciones del árbol DOM.
+\begin{frame}{Framework jQuery}
+\begin{figure}[]
+ \includegraphics[scale=0.15]{jquery}
+\end{figure}
+  Es un framework de JavaScript que proporciona un conjunto de funciones heredadas de JavaScript listas para utilizarlas de una manera muy simplificada.
+ \begin{block}{Características jQuery}
+\begin{columns}[c]
+\column{0.5 \textwidth}
+\begin{itemize}
 \item Eventos.
-\item Manipulación de la hoja de estilos CSS.
+\item Manipulación CSS.
 \item Efectos y animaciones.
-\item Animaciones personalizadas.
+\item Selección y modificaciones del DOM.
+\end{itemize}
+\column{0.5 \textwidth}
+\begin{itemize}
 \item AJAX.
 \item Soporta extensiones.
 \item Gran compatibilidad con navegadores.
 \end{itemize}
+\end{columns}
   \end{block}
 \end{frame}
 
@@ -462,23 +469,26 @@ Se hace uso del algoritmo de encriptación md5 + salt.
 Se realizaron diferenciando dos tipos de personas:
 
 \begin{columns}[c]
+
+\column{0.3 \textwidth}
+  \begin{figure}[]
+\includegraphics[scale=0.2]{pruebas}
+\end{figure}
+
 \column{0.7 \textwidth}
 \begin{itemize}
-\item Personas con nivel altos de conocimientos informáticos.\\
+\item Personas con nivel alto de conocimientos informáticos.\\
 Compañeros de la universidad con acceso al código de la aplicación.
 \begin{itemize}
 \item Fallos: Detectaron algunos fallos de seguridad.
 \end{itemize}
-\item Personas con nivel bajos de conocimientos informáticos.\\
+\pause
+\item Personas con nivel bajo de conocimientos informáticos.\\
 Cliente final y amigos que no dominan la informática.
 \begin{itemize}
 \item Fallos: Detectaron problemas en usabilidad y diseño.
 \end{itemize}
 \end{itemize}
-\column{0.3 \textwidth}
-  \begin{figure}[]
-\includegraphics[scale=0.2]{pruebas}
-\end{figure}
 \end{columns}
 \end{frame}
 
@@ -507,6 +517,7 @@ Cliente final y amigos que no dominan la informática.
 \item Lenguajes de programación: HTML, CSS, JavaScript, PHP.
 \item Utilización de un framework PHP: Symfony2.
 \item Utilización de un framework Javascript: Jquery.
+\item Repaso y ampliación de conocimientos de ingeniería del software
 \end{itemize}
 \end{block}
 }
